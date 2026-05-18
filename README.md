@@ -9,6 +9,10 @@
 </div>
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nishchayanand-Patil&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
+</div>
+
+<div align="center">
   <img src="https://progress-bar.dev/100/?scale=100&title=BOOT_SEQUENCE&width=800&color=A78BFA&suffix=READY" alt="Level Bar" />
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=%E2%96%B1+INITIATING+PIXEL_PERFECT+FRAMEWORK...;%E2%96%B1+ENCRYPTING+INTERFACE_LAYERS...;%E2%96%B1+DECODE:+UI/UX+GRANDMASTER;%E2%96%B1+NISHCHAYANAND+PATIL:+ONLINE" alt="Typing SVG" />
@@ -17,7 +21,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/Nishchayanand-Patil"><img src="https://img.shields.io/badge/-COMM_LINK-111827?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
   &nbsp;
-  <a href="mailto:nishchay.a.patil@gmail.com"><img src="https://img.shields.io/badge/-ENCRYPTED_MAIL-111827?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
+  <a href="mailto:bhavyachopda28@gmail.com"><img src="https://img.shields.io/badge/-ENCRYPTED_MAIL-111827?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
   &nbsp;
   <a href="https://github.com/Nishchayanand-Patil"><img src="https://img.shields.io/badge/-DATAVIZ_REPOS-111827?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>
 </p>
@@ -85,6 +89,8 @@ Mission_Intel:
 </div>
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,go,docker,tailwind,figma,github,git,vercel&perline=6&theme=dark" />
+  <br/><br/>
   <table border="0" cellpadding="10" cellspacing="0">
     <tr>
       <td align="center" width="400" style="background: rgba(167, 139, 250, 0.05); border: 1px dashed #A78BFA; border-radius: 10px;">
@@ -97,20 +103,6 @@ Mission_Intel:
         <b>[ 🛡️ OFF_HAND: BACKEND ]</b><br/>
         <code>Node.js</code> • <code>PostgreSQL</code> • <code>Auth0</code><br/>
         <i>"Integrity at the core."</i>
-      </td>
-    </tr>
-    <tr height="20"></tr>
-    <tr>
-      <td align="center" width="400" style="background: rgba(167, 139, 250, 0.05); border: 1px dashed #A78BFA; border-radius: 10px;">
-        <b>[ 🎒 INVENTORY: DESIGN ]</b><br/>
-        <code>Tailwind CSS</code> • <code>Framer</code> • <code>Figma</code><br/>
-        <i>"Precision in every pixel."</i>
-      </td>
-      <td width="20"></td>
-      <td align="center" width="400" style="background: rgba(167, 139, 250, 0.05); border: 1px dashed #A78BFA; border-radius: 10px;">
-        <b>[ 🌀 ACCESSORY: DEPLOY ]</b><br/>
-        <code>Docker</code> • <code>Vercel</code> • <code>CI/CD</code><br/>
-        <i>"Scaled for the world."</i>
       </td>
     </tr>
   </table>
@@ -145,6 +137,13 @@ Mission_Intel:
       </td>
     </tr>
   </table>
+</div>
+
+<br />
+
+<!-- 🐍 SNAKE GAME ANIMATION -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishchayanand-Patil&theme=tokyonight&bg_color=0A0D14&hide_border=true" width="100%" />
 </div>
 
 <br />
@@ -220,5 +219,11 @@ Mission_Intel:
   <a href="#"><b>[ 📂 DOWNLOAD_RESUME.DAT ]</b></a> &nbsp; <b>•</b> &nbsp; 
   <a href="https://linkedin.com/in/Nishchayanand-Patil"><b>[ 💬 OPEN_COMMS ]</b></a>
 </p>
+
+<div align="center">
+  <a href="https://linkedin.com/in/Nishchayanand-Patil">
+    <img src="https://skillicons.dev/icons?i=linkedin,gmail,github,twitter,instagram,discord&theme=dark" />
+  </a>
+</div>
 
 <br />
