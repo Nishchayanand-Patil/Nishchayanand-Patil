@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0D14&height=300&section=header&text=N_PATIL.EXE&fontSize=80&animation=fadeIn&fontAlignY=38&theme=tokyonight&desc=%E3%80%8B%20ELITE_SOFTWARE_ARCHITECT%20%E3%80%8A&descSize=20&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0D14&height=300&section=header&text=N_PATIL.EXE&fontSize=80&animation=twinkling&fontAlignY=38&theme=tokyonight&desc=%E3%80%8B%20ELITE_SOFTWARE_ARCHITECT%20%E3%80%8A&descSize=20&descAlignY=62" width="100%" />
 </div>
 
 <div align="center">
@@ -28,14 +28,14 @@
 
 <!-- CHARACTER ENTRY -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0A0D14&height=100&section=header&text=%E2%96%B2%20CHARACTER_ENTRY%20%E2%96%B2&fontSize=40&animation=fadeIn&theme=tokyonight" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0A0D14&height=100&section=header&text=%E2%96%B2%20CHARACTER_ENTRY%20%E2%96%B2&fontSize=40&animation=scaleIn&theme=tokyonight" width="100%" />
 </div>
 
 <div align="center">
   <table border="0">
     <tr>
       <td width="280" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMG9pXqO7A6q1G/giphy.gif" width="180" style="border: 2px solid #A78BFA; border-radius: 20px; box-shadow: 0 0 25px rgba(167, 139, 250, 0.3);" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMG9pXqO7A6q1G/giphy.gif" width="180" style="border: 2px solid #A78BFA; border-radius: 20px; box-shadow: 0 0 25px rgba(167, 139, 250, 0.4);" />
         <br/><br/>
         <b>[ PLAYER_1: %NISH% ]</b>
       </td>
@@ -60,7 +60,7 @@
 
 <!-- CORE ATTRIBUTES -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0A0D14&height=60&section=header&text=%E2%96%B6%20CORE_ATTRIBUTES%20%E2%97%80&fontSize=30&animation=fadeIn&theme=tokyonight&color=A78BFA" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0A0D14&height=60&section=header&text=%E2%96%B▶%20CORE_ATTRIBUTES%20%E2%97%80&fontSize=30&animation=rolling&theme=tokyonight&color=A78BFA" width="100%" />
 </div>
 
 <div align="center">
@@ -103,7 +103,7 @@
 
 <!-- EQUIPMENT -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=80&section=header&text=%E2%9A%94%20EQUIPMENT_LOADOUT%20%E2%9A%94&fontSize=35&animation=fadeIn&theme=tokyonight" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=80&section=header&text=%E2%9A%94%20EQUIPMENT_LOADOUT%20%E2%9A%94&fontSize=35&animation=glitch&theme=tokyonight" width="100%" />
 </div>
 
 <div align="center">
@@ -130,7 +130,7 @@
 
 <!-- QUEST LOG -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=60&section=header&text=%E2%9C%A7%20ACTIVE_QUEST_LOG%20%E2%9C%A7&fontSize=30&animation=fadeIn&theme=tokyonight" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=60&section=header&text=%E2%9C%A7%20ACTIVE_QUEST_LOG%20%E2%9C%A7&fontSize=30&animation=venom&theme=tokyonight" width="100%" />
 </div>
 
 <div align="center">
@@ -156,7 +156,7 @@
 
 <!-- TELEMETRY -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=60&section=header&text=%E2%96%B3%20SYSTEM_TELEMETRY%20%E2%96%B3&fontSize=30&animation=fadeIn&theme=tokyonight" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=60&section=header&text=%E2%96%B3%20SYSTEM_TELEMETRY%20%E2%96%B3&fontSize=30&animation=distorted&theme=tokyonight" width="100%" />
 </div>
 
 <div align="center">
@@ -178,7 +178,7 @@
 
 <!-- CONTRIBUTION FLOW -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=60&section=header&text=%E2%9C%BF%20CONTRIBUTION_FLOW%20%E2%9C%BF&fontSize=30&animation=fadeIn&theme=tokyonight" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=60&section=header&text=%E2%9C%BF%20CONTRIBUTION_FLOW%20%E2%9C%BF&fontSize=30&animation=twinkling&theme=tokyonight" width="100%" />
 </div>
 
 <div align="center">
@@ -189,7 +189,7 @@
 
 <!-- HALL OF FAME -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0A0D14&height=60&section=header&text=%E2%9C%AA%20HALL_OF_FAME%20%E2%9C%AA&fontSize=30&animation=fadeIn&theme=tokyonight" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0A0D14&height=60&section=header&text=%E2%9C%AA%20HALL_OF_FAME%20%E2%9C%AA&fontSize=30&animation=scaleIn&theme=tokyonight" width="100%" />
 </div>
 
 <div align="center">
