@@ -211,23 +211,43 @@ My workflow utilizes **Swiss-design principles** for layout and **Modern-Defense
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/QUOOHX7kR0NMBz9j9Y/giphy.gif" width="100" />
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=14&pause=2000&color=A78BFA&center=true&vCenter=true&width=600&lines=%E2%9E%A4+ARCHIVING+SESSION...;%E2%9E%A4+MEMORY+DUMP+SUCCESSFUL;%E2%9E%A4+GAME+SAVED+SUCCESSFULLY!" alt="Save Typing" />
-</div>
-
-<br />
-
-<div align="center">
-  <pre>
-    _________________________________________
-   /                                         \
-  |          [  CONNECTION_SECURE  ]          |
-  |         > SESSION_KEY: 0xN1SHCHAY         |
-   \_________________________________________/
-           ||                       ||
-           ||       [  ELITE  ]      ||
-  </pre>
+  <table border="0">
+    <tr>
+      <td align="center" valign="bottom">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lopx9eUi34rbq/giphy.gif" width="50" />
+        <pre>
+  [█]  
+  [█]  
+ [███] 
+ █████ 
+        </pre>
+      </td>
+      <td align="center" valign="middle" width="500">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/QUOOHX7kR0NMBz9j9Y/giphy.gif" width="80" />
+        <br/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=14&pause=2000&color=F59E0B&center=true&vCenter=true&width=600&lines=%E2%9E%A4+ARCHIVING+SESSION...;%E2%9E%A4+MEMORY+DUMP+SUCCESSFUL;%E2%9E%A4+GAME+SAVED+SUCCESSFULLY!" alt="Save Typing" />
+        <br/>
+        <pre>
+ __________________________________________
+|                                          |
+|         [  CONNECTION_SECURE  ]          |
+|        > SESSION_KEY: 0xN1SHCHAY         |
+|__________________________________________|
+        ||                        ||
+        ||        [ ELITE ]       ||
+        </pre>
+      </td>
+      <td align="center" valign="bottom">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lopx9eUi34rbq/giphy.gif" width="50" />
+        <pre>
+  [█]  
+  [█]  
+ [███] 
+ █████ 
+        </pre>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <p align="center">
