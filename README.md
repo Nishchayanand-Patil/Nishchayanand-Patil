@@ -141,15 +141,14 @@ Mission_Intel:
 
 <br />
 
-<!-- 🐍 SNAKE GAME ANIMATION -->
+<!-- 🐍 CONTRIBUTION_FLOW -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nishchayanand-Patil/Nishchayanand-Patil/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=60&section=header&text=%E2%9C%BF%20CONTRIBUTION_FLOW%20%E2%9C%BF&fontSize=30&animation=fadeIn&theme=tokyonight" width="100%" />
 </div>
 
-<br />
-
-<!-- 💠 MISSION LOG SECTION -->
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Nishchayanand-Patil/Nishchayanand-Patil/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
+  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishchayanand-Patil&theme=tokyonight&bg_color=0A0D14&hide_border=true" width="100%" />
 </div>
 
