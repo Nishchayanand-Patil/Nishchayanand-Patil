@@ -2,14 +2,12 @@
 # 👾 SYSTEM_INITIALIZED // PLAYER_PROFILE :: NISHCHAYANAND_PATIL
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0D14&height=300&section=header&text=NISHCHAYANAND%20PATIL&fontSize=70&animation=fadeIn&fontAlignY=38&theme=tokyonight&desc=LEVEL_99_ARCHITECT%20%E2%9E%A4%20ELITE_DEVELOPER&descSize=22&descAlignY=62" width="100%" />
 </div>
 
 <div align="center">
-  <br/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYyeGN4M3N4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVtoG3fxM389ia/giphy.gif" width="120" />
+  <img src="https://progress-bar.dev/99/?scale=100&title=XP_LEVEL&width=800&color=A78BFA&suffix=MAX_LVL" alt="Level Bar" />
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=%E2%96%B1+ENGINEERING+ELITE+DIGITAL+EXPERIENCES;%E2%96%B1+ARCHITECTING+SECURE+ENVIRONMENTS;%E2%96%B1+UI%2FUX+MEETS+CYBER+SECURITY;%E2%96%B1+LEVELING+UP+YOUR+PRODUCT" alt="Typing SVG" />
 </div>
@@ -26,46 +24,52 @@
 
 <br />
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 🕹️ CHARACTER_ENTRY: NISHCHAYANAND.EXE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<br />
 
-<table align="center" width="100%">
-<tr>
-<td width="55%">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=80&section=header&text=%E2%96%B2%20CHARACTER_ENTRY%20%E2%96%B2&fontSize=35&animation=fadeIn&fontAlignY=50&theme=tokyonight&fontAlign=center" width="100%" />
+</div>
 
-```yaml
-# RPG Character Meta
-Character_Data:
-  Name        : Nishchayanand Patil
-  Class       : Full-Stack Engineer
-  Subclass    : UI/UX Grandmaster
-  Specialty   : Zero-Trust Architecture
-  Weapon      : TypeScript & Figma
-  Base_Region : [Your City], India
+<div align="center">
+  <pre>
+  ┌────────────────────────────────────────────────────────────────────────┐
+  │ [!] SYSTEM_DATA: %NISH%_ATTR_INIT                                      │
+  └────────────────────────────────────────────────────────────────────────┘
+  </pre>
+</div>
 
-Operational_Meta:
-  Experience  : [Expected Graduation 202X]
-  Quest_Log   : 10+ High-Rank Projects
-  Reputation  : 2 Professional Internships
-  Current_Map : Advanced Design Systems
-```
-</td>
-<td width="45%" align="center">
-  <p align="center">
-    <b>MISSION_LOG</b><br/>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&pause=2000&color=06B6D4&center=true&vCenter=true&width=300&lines=%22Forging+digital+armor%22;%22that+feels+like%22;%22a+second+skin.%22" alt="Mission Typing" />
-  </p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Nishchayanand-Patil&theme=tokyonight&no-bg=true&no-frame=true&column=3&rank=SSS,SS,S" width="100%" />
-</td>
-</tr>
-</table>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="300" align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYyeGN4M3N4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVtoG3fxM389ia/giphy.gif" width="150" />
+        <br/>
+        <b>[ PLAYER_1: %NISH% ]</b>
+      </td>
+      <td width="600">
+        <pre>
+ 🛡️ RPG_CHARACTER_META.YML
+ ──────────────────────────────────
+ Name      : Nishchayanand Patil
+ Class     : Full-Stack Architect
+ Specialty : Zero-Trust / UI-Art
+ Weapon    : TS / Figma / Docker
+ Region    : Maharashtra, India
+ Status    : [QUESTING_FOR_ELITE_OP]
+ ──────────────────────────────────
+        </pre>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br />
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 📊 CORE_ATTRIBUTES
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=80&section=header&text=%E2%96%B6%20CORE_ATTRIBUTES%20%E2%97%80&fontSize=35&animation=fadeIn&fontAlignY=50&theme=tokyonight&fontAlign=center" width="100%" />
+</div>
 
 <div align="center">
   <table width="85%">
@@ -94,9 +98,11 @@ Operational_Meta:
 
 <br />
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## ✨ SYSTEM_OVERVIEW
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=80&section=header&text=%E2%97%86%20SYSTEM_OVERVIEW%20%E2%97%86&fontSize=35&animation=fadeIn&fontAlignY=50&theme=tokyonight&fontAlign=center" width="100%" />
+</div>
 
 I am a **product-centered builder** obsessed with the fusion of high-fidelity aesthetics and ironclad security. In an era of generic templates, I strive for **bespoke digital experiences** that resonate with users while keeping their data under heavy lock and key.
 
@@ -104,91 +110,90 @@ My workflow utilizes **Swiss-design principles** for layout and **Modern-Defense
 
 <br />
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## ⚔️ EQUIPMENT_LOADOUT
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<br />
 
 <div align="center">
-  <table>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=80&section=header&text=%E2%9A%94%20EQUIPMENT_LOADOUT%20%E2%9A%94&fontSize=35&animation=fadeIn&fontAlignY=50&theme=tokyonight&fontAlign=center" width="100%" />
+</div>
+
+<div align="center">
+  <table border="0">
     <tr>
-      <td align="center"><b>PRIMARY_WEAPON (FRONTEND)</b></td>
-      <td align="center"><b>SYSTEM_CORE (BACKEND)</b></td>
+      <td align="center"><b>⚔️ PRIMARY_WEAPON</b><br/><code>Next.js</code> • <code>React</code> • <code>TS</code></td>
+      <td align="center"><b>🛡️ DEFENSE_CORE</b><br/><code>Node.js</code> • <code>PostgreSQL</code></td>
     </tr>
     <tr>
-      <td><code>Next.js</code> • <code>React</code> • <code>TypeScript</code> • <code>Tailwind</code> • <code>Framer Motion</code></td>
-      <td><code>Node.js</code> • <code>Express</code> • <code>Python</code> • <code>FastAPI</code> • <code>PostgreSQL</code></td>
-    </tr>
-    <tr>
-      <td align="center"><b>DEFENSE_SHIELD (SECURITY)</b></td>
-      <td align="center"><b>UTILITY_KIT (TOOLS)</b></td>
-    </tr>
-    <tr>
-      <td><code>JWT</code> • <code>OAuth 2.0</code> • <code>AES-256</code> • <code>SSL/TLS</code> • <code>OWASP</code></td>
-      <td><code>Docker</code> • <code>Vercel</code> • <code>Firebase</code> • <code>GitHub Actions</code> • <code>Figma</code></td>
+      <td align="center"><b>🔮 ENCHANTED_KIT</b><br/><code>Tailwind</code> • <code>Framer</code> • <code>Figma</code></td>
+      <td align="center"><b>🌀 PORTAL_TOOLS</b><br/><code>Docker</code> • <code>Vercel</code> • <code>Git</code></td>
     </tr>
   </table>
+  <br/>
+  <pre>
+  [ INVENTORY_SLOTS ]
+  ┌───┐ ┌───┐ ┌───┐ ┌───┐ ┌───┐
+  │ ⚛️ │ │ 🔷 │ │ 🎨 │ │ 🛡️ │ │ ⚙️ │
+  └───┘ └───┘ └───┘ └───┘ └───┘
+  </pre>
 </div>
 
 <br />
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 📜 ACTIVE_QUEST_LOG
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<br />
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=80&section=header&text=%E2%9C%A7%20ACTIVE_QUEST_LOG%20%E2%9C%A7&fontSize=35&animation=fadeIn&fontAlignY=50&theme=tokyonight&fontAlign=center" width="100%" />
+</div>
 
-### 💠 [ PROJECT_STARK_VAULT ]
-**Objective:** Architect a zero-knowledge, decentralized credential portal.
-**Status:** `MISSION_ACCOMPLISHED` // **Reward:** `+50 Security Mastery`
-<br/>
-[ **[ ACCESS_INTEL ]** ](https://github.com/Nishchayanand-Patil) • [ **[ DEPLOY_LINK ]** ](https://github.com/Nishchayanand-Patil)
-
----
-
-### 💠 [ PROJECT_LUMEN_OS ]
-**Objective:** Build an E2EE file management system with "Apple-grade" UI fluidity.
-**Status:** `MAINTENANCE_MODE` // **Reward:** `+40 UI/UX Grandmaster`
-<br/>
-[ **[ ACCESS_INTEL ]** ](https://github.com/Nishchayanand-Patil) • [ **[ DEPLOY_LINK ]** ](https://github.com/Nishchayanand-Patil)
-
----
-
-### 💠 [ PROJECT_VOTE_LEDGER ]
-**Objective:** Eradicate election fraud via immutable blockchain-inspired auditing.
-**Status:** `STABLE_RELEASE` // **Reward:** `+60 Data Integrity`
-<br/>
-[ **[ ACCESS_INTEL ]** ](https://github.com/Nishchayanand-Patil) • [ **[ DEPLOY_LINK ]** ](https://github.com/Nishchayanand-Patil)
-
----
-
-### 💠 [ PROJECT_OBSIDIAN_UI ]
-**Objective:** Craft a high-performance, accessible UI library for enterprise-scale SaaS.
-**Status:** `BETA_TESTING` // **Reward:** `+45 Component Orchestration`
-<br/>
-[ **[ ACCESS_INTEL ]** ](https://github.com/Nishchayanand-Patil) • [ **[ DEPLOY_LINK ]** ](https://github.com/Nishchayanand-Patil)
-
+<div align="left">
+  <pre>
+  <b>[!] ACTIVE_MISSIONS</b>
+  ──────────────────────────────────────────────────────────
+  ◈ <b>PROJECT_STARK_VAULT</b> ......... [ ██████████ ] 100%
+    > Zero-knowledge Portal / Security Rank: S
+  
+  ◈ <b>PROJECT_LUMEN_OS</b> ............ [ ████████░░ ] 80%
+    > E2EE File System / UI Art Rank: A+
+  
+  ◈ <b>PROJECT_VOTE_LEDGER</b> ......... [ ██████████ ] 100%
+    > Blockchain Audit / Integrity Rank: SS
+  
+  ◈ <b>PROJECT_OBSIDIAN_UI</b> ......... [ ████░░░░░░ ] 40%
+    > Enterprise SaaS Lib / Performance: S
+  ──────────────────────────────────────────────────────────
+  </pre>
 </div>
 
 <br />
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 📊 SYSTEM_TELEMETRY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishchayanand-Patil&show_icons=true&theme=tokyonight&title_color=A78BFA&text_color=F8FAFC&icon_color=06B6D4&hide_border=true&include_all_commits=true&count_private=true" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishchayanand-Patil&layout=compact&theme=tokyonight&title_color=A78BFA&text_color=F8FAFC&hide_border=true" height="200" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=80&section=header&text=%E2%96%B3%20SYSTEM_TELEMETRY%20%E2%96%B3&fontSize=35&animation=fadeIn&fontAlignY=50&theme=tokyonight&fontAlign=center" width="100%" />
 </div>
 
 <div align="center">
+  <pre>
+  ┌────────────────────────────────────────────────────────────────────────┐
+  │ [>] MONITORING_STREAMS...                                              │
+  │ [>] DATA_PACKETS: RECIEVING                                            │
+  └────────────────────────────────────────────────────────────────────────┘
+  </pre>
+  <table border="0">
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Nishchayanand-Patil&show_icons=true&theme=tokyonight&title_color=A78BFA&text_color=F8FAFC&icon_color=06B6D4&hide_border=true&include_all_commits=true&count_private=true" height="200" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishchayanand-Patil&layout=compact&theme=tokyonight&title_color=A78BFA&text_color=F8FAFC&hide_border=true" height="200" /></td>
+    </tr>
+  </table>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishchayanand-Patil&theme=tokyonight&hide_border=true&background=0A0D14" width="100%" />
 </div>
 
 <br />
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 🐍 CONTRIBUTION_FLOW
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=80&section=header&text=%E2%9C%BF%20CONTRIBUTION_FLOW%20%E2%9C%BF&fontSize=35&animation=fadeIn&fontAlignY=50&theme=tokyonight&fontAlign=center" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
@@ -196,9 +201,11 @@ My workflow utilizes **Swiss-design principles** for layout and **Modern-Defense
 
 <br />
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 🎖️ HALL_OF_FAME
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=80&section=header&text=%E2%9C%AA%20HALL_OF_FAME%20%E2%9C%AA&fontSize=35&animation=fadeIn&fontAlignY=50&theme=tokyonight&fontAlign=center" width="100%" />
+</div>
 
 - 🏆 **[GOLD_MEDAL]** Winner of Inter-University Hackathon [Year]
 - 📜 **[SEC_SCROLL]** Specialist: Modern Application Security (OWASP)
@@ -206,15 +213,17 @@ My workflow utilizes **Swiss-design principles** for layout and **Modern-Defense
 
 <br />
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 🎮 SAVE_STATE: SESSION_SYNC
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=80&section=header&text=%E2%9E%A4%20SAVE_STATE%20%E2%9E%A4&fontSize=35&animation=fadeIn&fontAlignY=50&theme=tokyonight&fontAlign=center" width="100%" />
+</div>
 
 <div align="center">
   <table border="0">
     <tr>
       <td align="center" valign="bottom">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lopx9eUi34rbq/giphy.gif" width="50" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHYyeGN4M3N4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVtoG3fxM389ia/giphy.gif" width="50" />
         <pre>
   [█]  
   [█]  
@@ -238,7 +247,7 @@ My workflow utilizes **Swiss-design principles** for layout and **Modern-Defense
         </pre>
       </td>
       <td align="center" valign="bottom">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lopx9eUi34rbq/giphy.gif" width="50" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHYyeGN4M3N4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVtoG3fxM389ia/giphy.gif" width="50" />
         <pre>
   [█]  
   [█]  
