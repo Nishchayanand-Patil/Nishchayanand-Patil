@@ -2,25 +2,26 @@
 # 👾 SYSTEM_INITIALIZED // PLAYER_PROFILE :: NISHCHAYANAND_PATIL
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0A0D14&height=300&section=header&text=NISHCHAYANAND%20PATIL&fontSize=70&animation=twinkling&fontAlignY=38&theme=tokyonight&desc=FULL%20STACK%20ARCHITECT%20%E2%9E%A4%20UI%2FUX%20GRANDMASTER&descSize=20&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0D14&height=300&section=header&text=NISHCHAYANAND%20PATIL&fontSize=70&animation=fadeIn&fontAlignY=38&theme=tokyonight&desc=LEVEL_99_ARCHITECT%20%E2%9E%A4%20ELITE_DEVELOPER&descSize=22&descAlignY=62" width="100%" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHYyeGN4M3N4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVtoG3fxM389ia/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYyeGN4M3N4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVtoG3fxM389ia/giphy.gif" width="120" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=%E2%96%B1+ENGINEERING+ELITE+DIGITAL+EXPERIENCES;%E2%96%B1+ARCHITECTING+SECURE+ENVIRONMENTS;%E2%96%B1+UI%2FUX+MEETS+CYBER+SECURITY;%E2%96%B1+LEVELING+UP+YOUR+PRODUCT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=%E2%96%B1+ENGINEERING+ELITE+DIGITAL+EXPERIENCES;%E2%96%B1+ARCHITECTING+SECURE+ENVIRONMENTS;%E2%96%B1+UI%2FUX+MEETS+CYBER+SECURITY;%E2%96%B1+LEVELING+UP+YOUR+PRODUCT" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]"><img src="https://img.shields.io/badge/-LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
-  <a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/-Email-111827?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
-  <a href="[YOUR_PORTFOLIO_URL]"><img src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=framer&logoColor=A78BFA" /></a>
+  <a href="https://linkedin.com/in/Nishchayanand-Patil"><img src="https://img.shields.io/badge/-LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
+  <a href="mailto:bhavyachopda28@gmail.com"><img src="https://img.shields.io/badge/-Email-111827?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
+  <a href="https://github.com/Nishchayanand-Patil"><img src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=framer&logoColor=A78BFA" /></a>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&style=flat-square&color=A78BFA&label=SYSTEM_SCANS" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Nishchayanand-Patil&style=flat-square&color=A78BFA&label=SYSTEM_SCANS" alt="Visitor Counter" />
 </div>
 
 <br />
@@ -55,7 +56,7 @@ Operational_Meta:
     <b>MISSION_LOG</b><br/>
     <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&pause=2000&color=06B6D4&center=true&vCenter=true&width=300&lines=%22Forging+digital+armor%22;%22that+feels+like%22;%22a+second+skin.%22" alt="Mission Typing" />
   </p>
-  <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=tokyonight&no-bg=true&no-frame=true&column=3&rank=SSS,SS,S" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nishchayanand-Patil&theme=tokyonight&no-bg=true&no-frame=true&column=3&rank=SSS,SS,S" width="100%" />
 </td>
 </tr>
 </table>
@@ -175,12 +176,12 @@ My workflow utilizes **Swiss-design principles** for layout and **Modern-Defense
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=transparent&title_color=A78BFA&text_color=F8FAFC&icon_color=06B6D4&hide_border=true&include_all_commits=true&count_private=true" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=transparent&title_color=A78BFA&text_color=F8FAFC&hide_border=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishchayanand-Patil&show_icons=true&theme=tokyonight&title_color=A78BFA&text_color=F8FAFC&icon_color=06B6D4&hide_border=true&include_all_commits=true&count_private=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishchayanand-Patil&layout=compact&theme=tokyonight&title_color=A78BFA&text_color=F8FAFC&hide_border=true" height="200" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true&background=0A0D14" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishchayanand-Patil&theme=tokyonight&hide_border=true&background=0A0D14" width="100%" />
 </div>
 
 <br />
@@ -210,8 +211,7 @@ My workflow utilizes **Swiss-design principles** for layout and **Modern-Defense
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
-  <img src="https://img.icons8.com/pixel-cloud/128/A78BFA/save.png" width="80" />
-  <br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/QUOOHX7kR0NMBz9j9Y/giphy.gif" width="100" />
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=14&pause=2000&color=A78BFA&center=true&vCenter=true&width=600&lines=%E2%9E%A4+ARCHIVING+SESSION...;%E2%9E%A4+MEMORY+DUMP+SUCCESSFUL;%E2%9E%A4+GAME+SAVED+SUCCESSFULLY!" alt="Save Typing" />
 </div>
