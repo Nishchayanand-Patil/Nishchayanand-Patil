@@ -3,20 +3,20 @@
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=300&section=header&text=NISHCHAYANAND%20PATIL&fontSize=80&animation=fadeIn&fontAlignY=40&theme=tokyonight&desc=Full%20Stack%20Architect%20%E2%80%A2%20UI%2FUX%20Specialist%20%E2%80%A2%20Security%20Explorer&descSize=24&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0D14&height=300&section=header&text=NISHCHAYANAND%20PATIL&fontSize=80&animation=fadeIn&fontAlignY=38&theme=tokyonight&desc=Full%20Stack%20Architect%20%E2%80%A2%20UI%2FUX%20Specialist&descSize=26&descAlignY=58" width="100%" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://img.icons8.com/pixel-cloud/120/A78BFA/controller.png" width="80" />
+  <img src="https://img.icons8.com/pixel-cloud/128/A78BFA/cyber-security.png" width="90" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=%E2%9E%A4+DESIGNING+BEAUTIFUL+INTERFACES;%E2%9E%A4+ENGINEERING+SECURE+SYSTEMS;%E2%9E%A4+DEVELOPING+ELITE+PRODUCTS;%E2%9E%A4+ALWAYS+LEVELING+UP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=%E2%96%B1+ENGINEERING+ELITE+DIGITAL+EXPERIENCES;%E2%96%B1+ARCHITECTING+SECURE+ENVIRONMENTS;%E2%96%B1+LOVES+STUNNING+UI+%2F+UX;%E2%96%B1+LEVELING+UP+SINCE+[START_YEAR]" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]"><img src="https://img.shields.io/badge/-LinkedIn-0A0D14?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
-  <a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/-Email-0A0D14?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
-  <a href="[YOUR_PORTFOLIO_URL]"><img src="https://img.shields.io/badge/-Portfolio-0A0D14?style=for-the-badge&logo=framer&logoColor=A78BFA" /></a>
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]"><img src="https://img.shields.io/badge/-LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
+  <a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/-Email-111827?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
+  <a href="[YOUR_PORTFOLIO_URL]"><img src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=framer&logoColor=A78BFA" /></a>
 </p>
 
 <div align="center">
@@ -26,7 +26,7 @@
 <br />
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 🕹️ CHARACTER_DOSSIER
+## 🕹️ CHARACTER_ENTRY: NISHCHAYANAND.EXE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <table align="center" width="100%">
@@ -38,24 +38,24 @@
 Character_Data:
   Name        : Nishchayanand Patil
   Class       : Full-Stack Engineer
-  Archetype   : UI/UX Master
-  Specialty   : Secure Architecture
-  Alignment   : Product-Oriented
+  Subclass    : UI/UX Grandmaster
+  Specialty   : Zero-Trust Architecture
+  Weapon      : TypeScript & Figma
   Base_Region : [Your City], India
 
 Operational_Meta:
   Experience  : [Expected Graduation 202X]
+  Quest_Log   : 10+ High-Rank Projects
+  Reputation  : 2 Professional Internships
   Current_Map : Advanced Design Systems
-  Intel_Level : High (24+ Modules)
-  Guilds      : 2 Professional Internships
 ```
 </td>
 <td width="45%" align="center">
   <p align="center">
     <b>MISSION_LOG</b><br/>
-    <i>"Where high-fidelity design <br/>meets battle-hardened security."</i>
+    <i>"Forging digital armor that feels <br/>like a second skin."</i>
   </p>
-  <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=tokyonight&no-bg=true&no-frame=true&column=3" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=tokyonight&no-bg=true&no-frame=true&column=3&rank=SSS,SS,S,A" width="100%" />
 </td>
 </tr>
 </table>
@@ -63,29 +63,29 @@ Operational_Meta:
 <br />
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 📊 BASE_ATTRIBUTES
+## 📊 CORE_ATTRIBUTES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
   <table width="85%">
     <tr>
-      <td><b>🎨 UI/UX DESIGN</b></td>
+      <td><b>🎨 PIXEL_PRECISION (UI/UX)</b></td>
       <td><img src="https://progress-bar.dev/99/?scale=100&title=MAX&width=450&color=A78BFA&suffix=%" /></td>
     </tr>
     <tr>
-      <td><b>⚛️ FRONTEND_ENGINEERING</b></td>
+      <td><b>⚛️ FRONTEND_MASTERY</b></td>
       <td><img src="https://progress-bar.dev/94/?scale=100&title=ELITE&width=450&color=7C3AED&suffix=%" /></td>
     </tr>
     <tr>
-      <td><b>🎯 PRODUCT_STRATEGY</b></td>
+      <td><b>🎯 PRODUCT_INSTINCT</b></td>
       <td><img src="https://progress-bar.dev/88/?scale=100&title=HIGH&width=450&color=06B6D4&suffix=%" /></td>
     </tr>
     <tr>
-      <td><b>🛡️ SECURITY_ARCHITECTURE</b></td>
+      <td><b>🛡️ SECURITY_SHIELD</b></td>
       <td><img src="https://progress-bar.dev/82/?scale=100&title=SECURE&width=450&color=10B981&suffix=%" /></td>
     </tr>
     <tr>
-      <td><b>⚙️ BACKEND_SYSTEMS</b></td>
+      <td><b>⚙️ BACKEND_ENGINE</b></td>
       <td><img src="https://progress-bar.dev/78/?scale=100&title=CORE&width=450&color=94A3B8&suffix=%" /></td>
     </tr>
   </table>
@@ -94,64 +94,64 @@ Operational_Meta:
 <br />
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## ✨ CORE_NARRATIVE
+## ✨ SYSTEM_OVERVIEW
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-I am a **product-driven engineer** dedicated to the craft of building digital experiences that feel like magic but are built like fortresses. My passion lies at the intersection of **Figma-perfect UI** and **OWASP-standard security**.
+I am a **product-centered builder** obsessed with the fusion of high-fidelity aesthetics and ironclad security. In an era of generic templates, I strive for **bespoke digital experiences** that resonate with users while keeping their data under heavy lock and key.
 
-I don’t just write code; I design systems. I believe that a user's trust is won through the **fluidity of an animation** and kept through the **integrity of the architecture**. Every project I undertake is a mission to prove that beauty and security are not mutually exclusive.
+My workflow utilizes **Swiss-design principles** for layout and **Modern-Defense patterns** for code. Whether it's crafting liquid-smooth micro-interactions or hardening a REST API, I treat every project as a piece of high-performance digital art.
 
 <br />
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 🧰 ARSENAL_GRID
+## 🧰 ARSENAL_LOADOUT
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,motion,nodejs,express,py,fastapi,postgres,mongodb,firebase,figma,framer,github,docker&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,motion,nodejs,express,py,fastapi,postgres,mongodb,firebase,figma,framer,github,docker,vercel,postman,aws,vite&theme=dark&perline=10" />
 </div>
 
 <p align="center">
-  <b>SECURITY_CLEARANCE:</b> <code>JWT</code> • <code>OAuth 2.0</code> • <code>AES-256</code> • <code>Threat Modeling</code> • <code>Secure API Design</code>
+  <b>SECURITY_CLEARANCE:</b> <code>JWT</code> • <code>OAuth 2.0</code> • <code>AES-256</code> • <code>Penetration Testing</code> • <code>TLS</code>
 </p>
 
 <br />
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 🚀 ACTIVATED_EXPEDITIONS
+## 🚀 HIGHLIGHTED_EXPEDITIONS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <table width="100%">
 <tr>
 <td width="50%">
 <h3>🌑 Dark Web Vault</h3>
-<p>Modular credential architect using zero-knowledge encryption protocols.</p>
+<p>Stealth-mode credential manager built with zero-knowledge encryption.</p>
 <code>React</code> <code>Node.js</code> <code>AES</code> <code>Firebase</code>
 <br/><br/>
-<a href="#"><b>[ VIEW_INTEL ]</b></a> | <a href="#"><b>[ DEPLOY_LINK ]</b></a>
+<a href="#"><b>[ ACCESS_SOURCE ]</b></a> | <a href="#"><b>[ LAUNCH_DEMO ]</b></a>
 </td>
 <td width="50%">
 <h3>🛡️ Secure Vault</h3>
-<p>Privacy-centric file portal featuring high-fidelity micro-interactions.</p>
+<p>End-to-end encrypted file portal designed for maximum user empathy.</p>
 <code>TypeScript</code> <code>Framer Motion</code> <code>JWT</code> <code>AWS</code>
 <br/><br/>
-<a href="#"><b>[ VIEW_INTEL ]</b></a> | <a href="#"><b>[ DEPLOY_LINK ]</b></a>
+<a href="#"><b>[ ACCESS_SOURCE ]</b></a> | <a href="#"><b>[ LAUNCH_DEMO ]</b></a>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <h3>🗳️ eVoteLedger</h3>
-<p>Immutable governance ledger for transparent institutional voting cycles.</p>
+<p>Transparent auditing ledger for high-stakes organizational voting cycles.</p>
 <code>Next.js</code> <code>FastAPI</code> <code>PostgreSQL</code>
 <br/><br/>
-<a href="#"><b>[ VIEW_INTEL ]</b></a> | <a href="#"><b>[ DEPLOY_LINK ]</b></a>
+<a href="#"><b>[ ACCESS_SOURCE ]</b></a> | <a href="#"><b>[ LAUNCH_DEMO ]</b></a>
 </td>
 <td width="50%">
-<h3>💎 Obsidian UI</h3>
-<p>Premium design system library with 50+ optimized React components.</p>
+<h3>💎 Premium UI/UX Kit</h3>
+<p>Hand-crafted design system focusing on "Apple-standard" spacing.</p>
 <code>Figma</code> <code>Radix UI</code> <code>Tailwind</code>
 <br/><br/>
-<a href="#"><b>[ VIEW_INTEL ]</b></a> | <a href="#"><b>[ DEPLOY_LINK ]</b></a>
+<a href="#"><b>[ ACCESS_SOURCE ]</b></a> | <a href="#"><b>[ LAUNCH_DEMO ]</b></a>
 </td>
 </tr>
 </table>
@@ -159,29 +159,29 @@ I don’t just write code; I design systems. I believe that a user's trust is wo
 <br />
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 💼 GUILD_HISTORY
+## 💼 GUILD_EXPERIENCE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-#### 🛡️ **[Company Name]** | **Full-Stack Developer Intern**
-*Duration: [X Months] • Professional Grade*
-- **Objective:** Architected responsive dashboards, improving user workflow efficiency by 30%.
-- **Action:** Engineered OAuth 2.0 auth systems for 5,000+ active sessions.
-- **Outcome:** Standardized codebase using a unified Tailwind design system.
+#### 🛡️ **[Organization Name]** | **Intern: Full-Stack Architect**
+*Cycle: [X Months] • S-Rank Contribution*
+- **Stat Increase:** Developed secure-responsive dashboard, boosting productivity by 35%.
+- **Action:** Migrated legacy auth systems to high-perf OAuth 2.0 / JWT workflows.
+- **Outcome:** Reduced technical debt by 50% via modular component refactoring.
 
-#### 🎨 **[Company Name]** | **Design Systems Intern**
-*Duration: [X Months] • Hybrid Environment*
-- **Action:** Designed high-fidelity prototypes for enterprise fintech platforms.
-- **Outcome:** Streamlined the handoff process between design and engineering teams using Figma.
+#### 🎨 **[Company Name]** | **Intern: Design Systems**
+*Cycle: [X Months] • Professional Grade*
+- **Action:** Designed 20+ high-fidelity user journeys for enterprise-level tools.
+- **Outcome:** Bridged the "Design-to-Code" gap, improving deployment speed by 20%.
 
 <br />
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 📈 ANALYTICS_GRID
+## 📈 LEGACY_STATS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=transparent&title_color=A78BFA&text_color=F8FAFC&icon_color=06B6D4&hide_border=true&include_all_commits=true&count_private=true" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=transparent&title_color=A78BFA&text_color=F8FAFC&hide_border=true" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=transparent&title_color=A78BFA&text_color=F8FAFC&icon_color=06B6D4&hide_border=true&include_all_commits=true&count_private=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=transparent&title_color=A78BFA&text_color=F8FAFC&hide_border=true" height="200" />
 </div>
 
 <div align="center">
@@ -204,33 +204,33 @@ I don’t just write code; I design systems. I believe that a user's trust is wo
 ## 🎖️ HALL_OF_FAME
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- 🥇 **[Achievement]** Winner of [Hackathon Name] - Best UI/UX Award
-- 📜 **[Certification]** Google Certified: Cloud Security Architect
-- 🚀 **[Milestone]** Reached 1,000+ Github Stars across all projects
+- 🥇 **[Award]** Winner of Inter-University Hackathon [Year]
+- 📜 **[Cert]** Specialist: Modern Application Security (OWASP)
+- 🚀 **[Event]** Shipped MVP [Product] for 2,000+ Beta Users
 
 <br />
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 🎮 SAVE_POINT
+## 🎮 SAVE_STATE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```text
     _________________________________________
    /                                         \
-  |        SYSTEM STATUS: GAME SAVED          |
-  |      [ CONNECT TO START NEW QUEST ]       |
+  |        [ CONNECTION_STABLE: OK ]          |
+  |         > GAME SAVED SUCCESSFULLY         |
    \_________________________________________/
            ||                       ||
-           ||       [  PIXEL  ]      ||
+           ||       [  ELITE  ]      ||
 ```
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&pause=3000&color=94A3B8&center=true&vCenter=true&width=400&lines=PRESS+START+TO+CONNECT;OPEN+TO+GUILD+INVITES;SYSTEM_STABLE" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=18&pause=3000&color=94A3B8&center=true&vCenter=true&width=500&lines=PRESS+START+TO+CONNECT;OPEN+TO+GUILD+INVITES;RELOADING_RESOURCES..." alt="Footer Typing" />
 </div>
 
 <p align="center">
-  <a href="[YOUR_RESUME_URL]"><b>[ GET_RESUME ]</b></a> • 
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]"><b>[ LINKEDIN_CORE ]</b></a>
+  <a href="[YOUR_RESUME_URL]"><b>[ FETCH_RESUME ]</b></a> • 
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]"><b>[ COMM_CHANNEL ]</b></a>
 </p>
 
 <br />
