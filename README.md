@@ -1,6 +1,6 @@
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 👾 SYSTEM_INITIALIZED // PLAYER_PROFILE :: NISHCHAYANAND_PATIL
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0A0D14&height=300&section=header&text=NISHCHAYANAND%20PATIL&fontSize=70&animation=twinkling&fontAlignY=38&theme=tokyonight&desc=FULL%20STACK%20ARCHITECT%20%E2%9E%A4%20UI%2FUX%20GRANDMASTER&descSize=20&descAlignY=62" width="100%" />
