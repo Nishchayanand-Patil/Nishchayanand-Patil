@@ -3,14 +3,14 @@
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0D14&height=300&section=header&text=NISHCHAYANAND%20PATIL&fontSize=80&animation=fadeIn&fontAlignY=38&theme=tokyonight&desc=Full%20Stack%20Architect%20%E2%80%A2%20UI%2FUX%20Specialist&descSize=26&descAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0A0D14&height=300&section=header&text=NISHCHAYANAND%20PATIL&fontSize=70&animation=twinkling&fontAlignY=38&theme=tokyonight&desc=FULL%20STACK%20ARCHITECT%20%E2%9E%A4%20UI%2FUX%20GRANDMASTER&descSize=20&descAlignY=62" width="100%" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://img.icons8.com/pixel-cloud/128/A78BFA/cyber-security.png" width="90" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHYyeGN4M3N4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVtoG3fxM389ia/giphy.gif" width="120" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=%E2%96%B1+ENGINEERING+ELITE+DIGITAL+EXPERIENCES;%E2%96%B1+ARCHITECTING+SECURE+ENVIRONMENTS;%E2%96%B1+LOVES+STUNNING+UI+%2F+UX;%E2%96%B1+LEVELING+UP+SINCE+[START_YEAR]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=%E2%96%B1+ENGINEERING+ELITE+DIGITAL+EXPERIENCES;%E2%96%B1+ARCHITECTING+SECURE+ENVIRONMENTS;%E2%96%B1+UI%2FUX+MEETS+CYBER+SECURITY;%E2%96%B1+LEVELING+UP+YOUR+PRODUCT" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -53,9 +53,9 @@ Operational_Meta:
 <td width="45%" align="center">
   <p align="center">
     <b>MISSION_LOG</b><br/>
-    <i>"Forging digital armor that feels <br/>like a second skin."</i>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&pause=2000&color=06B6D4&center=true&vCenter=true&width=300&lines=%22Forging+digital+armor%22;%22that+feels+like%22;%22a+second+skin.%22" alt="Mission Typing" />
   </p>
-  <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=tokyonight&no-bg=true&no-frame=true&column=3&rank=SSS,SS,S,A" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=tokyonight&no-bg=true&no-frame=true&column=3&rank=SSS,SS,S" width="100%" />
 </td>
 </tr>
 </table>
@@ -104,79 +104,74 @@ My workflow utilizes **Swiss-design principles** for layout and **Modern-Defense
 <br />
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 🧰 ARSENAL_LOADOUT
+## ⚔️ EQUIPMENT_LOADOUT
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,motion,nodejs,express,py,fastapi,postgres,mongodb,firebase,figma,framer,github,docker,vercel,postman,aws,vite&theme=dark&perline=10" />
+  <table>
+    <tr>
+      <td align="center"><b>PRIMARY_WEAPON (FRONTEND)</b></td>
+      <td align="center"><b>SYSTEM_CORE (BACKEND)</b></td>
+    </tr>
+    <tr>
+      <td><code>Next.js</code> • <code>React</code> • <code>TypeScript</code> • <code>Tailwind</code> • <code>Framer Motion</code></td>
+      <td><code>Node.js</code> • <code>Express</code> • <code>Python</code> • <code>FastAPI</code> • <code>PostgreSQL</code></td>
+    </tr>
+    <tr>
+      <td align="center"><b>DEFENSE_SHIELD (SECURITY)</b></td>
+      <td align="center"><b>UTILITY_KIT (TOOLS)</b></td>
+    </tr>
+    <tr>
+      <td><code>JWT</code> • <code>OAuth 2.0</code> • <code>AES-256</code> • <code>SSL/TLS</code> • <code>OWASP</code></td>
+      <td><code>Docker</code> • <code>Vercel</code> • <code>Firebase</code> • <code>GitHub Actions</code> • <code>Figma</code></td>
+    </tr>
+  </table>
 </div>
 
-<p align="center">
-  <b>SECURITY_CLEARANCE:</b> <code>JWT</code> • <code>OAuth 2.0</code> • <code>AES-256</code> • <code>Penetration Testing</code> • <code>TLS</code>
-</p>
+<br />
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 📜 ACTIVE_QUEST_LOG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<div align="center">
+
+### 💠 [ PROJECT_STARK_VAULT ]
+**Objective:** Architect a zero-knowledge, decentralized credential portal.
+**Status:** `MISSION_ACCOMPLISHED` // **Reward:** `+50 Security Mastery`
+<br/>
+[ **[ ACCESS_INTEL ]** ](https://github.com/Nishchayanand-Patil) • [ **[ DEPLOY_LINK ]** ](https://github.com/Nishchayanand-Patil)
+
+---
+
+### 💠 [ PROJECT_LUMEN_OS ]
+**Objective:** Build an E2EE file management system with "Apple-grade" UI fluidity.
+**Status:** `MAINTENANCE_MODE` // **Reward:** `+40 UI/UX Grandmaster`
+<br/>
+[ **[ ACCESS_INTEL ]** ](https://github.com/Nishchayanand-Patil) • [ **[ DEPLOY_LINK ]** ](https://github.com/Nishchayanand-Patil)
+
+---
+
+### 💠 [ PROJECT_VOTE_LEDGER ]
+**Objective:** Eradicate election fraud via immutable blockchain-inspired auditing.
+**Status:** `STABLE_RELEASE` // **Reward:** `+60 Data Integrity`
+<br/>
+[ **[ ACCESS_INTEL ]** ](https://github.com/Nishchayanand-Patil) • [ **[ DEPLOY_LINK ]** ](https://github.com/Nishchayanand-Patil)
+
+---
+
+### 💠 [ PROJECT_OBSIDIAN_UI ]
+**Objective:** Craft a high-performance, accessible UI library for enterprise-scale SaaS.
+**Status:** `BETA_TESTING` // **Reward:** `+45 Component Orchestration`
+<br/>
+[ **[ ACCESS_INTEL ]** ](https://github.com/Nishchayanand-Patil) • [ **[ DEPLOY_LINK ]** ](https://github.com/Nishchayanand-Patil)
+
+</div>
 
 <br />
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 🚀 HIGHLIGHTED_EXPEDITIONS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<table width="100%">
-<tr>
-<td width="50%">
-<h3>🌑 Dark Web Vault</h3>
-<p>Stealth-mode credential manager built with zero-knowledge encryption.</p>
-<code>React</code> <code>Node.js</code> <code>AES</code> <code>Firebase</code>
-<br/><br/>
-<a href="#"><b>[ ACCESS_SOURCE ]</b></a> | <a href="#"><b>[ LAUNCH_DEMO ]</b></a>
-</td>
-<td width="50%">
-<h3>🛡️ Secure Vault</h3>
-<p>End-to-end encrypted file portal designed for maximum user empathy.</p>
-<code>TypeScript</code> <code>Framer Motion</code> <code>JWT</code> <code>AWS</code>
-<br/><br/>
-<a href="#"><b>[ ACCESS_SOURCE ]</b></a> | <a href="#"><b>[ LAUNCH_DEMO ]</b></a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3>🗳️ eVoteLedger</h3>
-<p>Transparent auditing ledger for high-stakes organizational voting cycles.</p>
-<code>Next.js</code> <code>FastAPI</code> <code>PostgreSQL</code>
-<br/><br/>
-<a href="#"><b>[ ACCESS_SOURCE ]</b></a> | <a href="#"><b>[ LAUNCH_DEMO ]</b></a>
-</td>
-<td width="50%">
-<h3>💎 Premium UI/UX Kit</h3>
-<p>Hand-crafted design system focusing on "Apple-standard" spacing.</p>
-<code>Figma</code> <code>Radix UI</code> <code>Tailwind</code>
-<br/><br/>
-<a href="#"><b>[ ACCESS_SOURCE ]</b></a> | <a href="#"><b>[ LAUNCH_DEMO ]</b></a>
-</td>
-</tr>
-</table>
-
-<br />
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 💼 GUILD_EXPERIENCE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-#### 🛡️ **[Organization Name]** | **Intern: Full-Stack Architect**
-*Cycle: [X Months] • S-Rank Contribution*
-- **Stat Increase:** Developed secure-responsive dashboard, boosting productivity by 35%.
-- **Action:** Migrated legacy auth systems to high-perf OAuth 2.0 / JWT workflows.
-- **Outcome:** Reduced technical debt by 50% via modular component refactoring.
-
-#### 🎨 **[Company Name]** | **Intern: Design Systems**
-*Cycle: [X Months] • Professional Grade*
-- **Action:** Designed 20+ high-fidelity user journeys for enterprise-level tools.
-- **Outcome:** Bridged the "Design-to-Code" gap, improving deployment speed by 20%.
-
-<br />
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 📈 LEGACY_STATS
+## 📊 SYSTEM_TELEMETRY
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
@@ -204,33 +199,40 @@ My workflow utilizes **Swiss-design principles** for layout and **Modern-Defense
 ## 🎖️ HALL_OF_FAME
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- 🥇 **[Award]** Winner of Inter-University Hackathon [Year]
-- 📜 **[Cert]** Specialist: Modern Application Security (OWASP)
-- 🚀 **[Event]** Shipped MVP [Product] for 2,000+ Beta Users
+- 🏆 **[GOLD_MEDAL]** Winner of Inter-University Hackathon [Year]
+- 📜 **[SEC_SCROLL]** Specialist: Modern Application Security (OWASP)
+- 🚀 **[WARP_DRIVE]** Shipped MVP [Product] for 2,000+ Beta Users
 
 <br />
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 🎮 SAVE_STATE
+## 🎮 SAVE_STATE: SESSION_SYNC
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-```text
+<div align="center">
+  <img src="https://img.icons8.com/pixel-cloud/128/A78BFA/save.png" width="80" />
+  <br/>
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=14&pause=2000&color=A78BFA&center=true&vCenter=true&width=600&lines=%E2%9E%A4+ARCHIVING+SESSION...;%E2%9E%A4+MEMORY+DUMP+SUCCESSFUL;%E2%9E%A4+GAME+SAVED+SUCCESSFULLY!" alt="Save Typing" />
+</div>
+
+<br />
+
+<div align="center">
+  <pre>
     _________________________________________
    /                                         \
-  |        [ CONNECTION_STABLE: OK ]          |
-  |         > GAME SAVED SUCCESSFULLY         |
+  |          [  CONNECTION_SECURE  ]          |
+  |         > SESSION_KEY: 0xN1SHCHAY         |
    \_________________________________________/
            ||                       ||
            ||       [  ELITE  ]      ||
-```
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=18&pause=3000&color=94A3B8&center=true&vCenter=true&width=500&lines=PRESS+START+TO+CONNECT;OPEN+TO+GUILD+INVITES;RELOADING_RESOURCES..." alt="Footer Typing" />
+  </pre>
 </div>
 
 <p align="center">
-  <a href="[YOUR_RESUME_URL]"><b>[ FETCH_RESUME ]</b></a> • 
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]"><b>[ COMM_CHANNEL ]</b></a>
+  <a href="[YOUR_RESUME_URL]"><b>[ 📂 FETCH_RESUME ]</b></a> &nbsp; <b>•</b> &nbsp; 
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]"><b>[ 💬 COMM_CHANNEL ]</b></a>
 </p>
 
 <br />
