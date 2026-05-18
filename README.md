@@ -143,6 +143,13 @@ Mission_Intel:
 
 <!-- 🐍 SNAKE GAME ANIMATION -->
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Nishchayanand-Patil/Nishchayanand-Patil/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+<br />
+
+<!-- 💠 MISSION LOG SECTION -->
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishchayanand-Patil&theme=tokyonight&bg_color=0A0D14&hide_border=true" width="100%" />
 </div>
 
