@@ -1,15 +1,18 @@
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# 👾 SYSTEM_INITIALIZED // PLAYER_PROFILE :: NISHCHAYANAND_PATIL
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<!-- 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+👾 SYSTEM_INITIALIZED // PLAYER_PROFILE :: NISHCHAYANAND_PATIL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+-->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0D14&height=300&section=header&text=NISHCHAYANAND%20PATIL&fontSize=70&animation=fadeIn&fontAlignY=38&theme=tokyonight&desc=LEVEL_99_ARCHITECT%20%E2%9E%A4%20ELITE_DEVELOPER&descSize=22&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=280&section=header&text=N_PATIL.EXE&fontSize=80&animation=fadeIn&fontAlignY=38&theme=tokyonight&desc=%E3%80%8B%20LEVEL_99_ARCHITECT%20%E2%9E%A4%20ELITE_DEVELOPER%20%E3%80%8A&descSize=20&descAlignY=62" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://progress-bar.dev/99/?scale=100&title=XP_LEVEL&width=800&color=A78BFA&suffix=MAX_LVL" alt="Level Bar" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=%E2%96%B1+ENGINEERING+ELITE+DIGITAL+EXPERIENCES;%E2%96%B1+ARCHITECTING+SECURE+ENVIRONMENTS;%E2%96%B1+UI%2FUX+MEETS+CYBER+SECURITY;%E2%96%B1+LEVELING+UP+YOUR+PRODUCT" alt="Typing SVG" />
+  <img src="https://progress-bar.dev/99/?scale=100&title=SYNC_LEVEL&width=800&color=A78BFA&suffix=MAX" alt="Level Bar" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=%E2%8F%A8+BOOTING+SECURE+DEVELOPMENT+TERMINAL...;%E2%8F%A8+ENCRYPTING+USER+INTERFACES...;%E2%8F%A8+OPTIMIZING_PIXEL_PRECISION:100%25;%E2%8F%A8+NISHCHAYANAND+PATIL:+READY" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -27,7 +30,35 @@
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=80&section=header&text=%E2%96%B2%20CHARACTER_ENTRY%20%E2%96%B2&fontSize=35&animation=fadeIn&fontAlignY=50&theme=tokyonight&fontAlign=center" width="100%" />
+<table border="0">
+<tr>
+<!-- LEFT_PILLAR_DECOR -->
+<td valign="top" width="100" align="center">
+  <br/><br/><br/><br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMG9pXqO7A6q1G/giphy.gif" width="50" />
+  <pre>
+ ┌────┐
+ │ XP │
+ ├────┤
+ │ ██ │
+ │ ██ │
+ │ ██ │
+ │ ██ │
+ │ ██ │
+ │ ██ │
+ │ ██ │
+ │ ░░ │
+ └────┘
+  CORE
+  </pre>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/QUOOHX7kR0NMBz9j9Y/giphy.gif" width="40" />
+</td>
+
+<!-- MAIN_CONTENT_CELL -->
+<td valign="top" align="center" width="800">
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=60&section=header&text=%E2%96%B2%20CHARACTER_ENTRY%20%E2%96%B2&fontSize=30&animation=fadeIn&fontAlignY=50&theme=tokyonight&fontAlign=center" width="100%" />
 </div>
 
 <div align="center">
@@ -41,12 +72,12 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td width="300" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYyeGN4M3N4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVtoG3fxM389ia/giphy.gif" width="150" />
+      <td width="250" align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMG9pXqO7A6q1G/giphy.gif" width="120" style="border: 2px solid #A78BFA; border-radius: 10px;" />
         <br/>
         <b>[ PLAYER_1: %NISH% ]</b>
       </td>
-      <td width="600">
+      <td width="550">
         <pre>
  🛡️ RPG_CHARACTER_META.YML
  ──────────────────────────────────
@@ -68,30 +99,30 @@
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=80&section=header&text=%E2%96%B6%20CORE_ATTRIBUTES%20%E2%97%80&fontSize=35&animation=fadeIn&fontAlignY=50&theme=tokyonight&fontAlign=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=60&section=header&text=%E2%96%B▶%20CORE_ATTRIBUTES%20%E2%97%80&fontSize=30&animation=fadeIn&fontAlignY=50&theme=tokyonight&fontAlign=center" width="100%" />
 </div>
 
 <div align="center">
-  <table width="85%">
+  <table width="95%">
     <tr>
-      <td><b>🎨 PIXEL_PRECISION (UI/UX)</b></td>
-      <td><img src="https://progress-bar.dev/99/?scale=100&title=MAX&width=450&color=A78BFA&suffix=%" /></td>
+      <td><b>🎨 PIXEL_PRECISION</b></td>
+      <td><img src="https://progress-bar.dev/99/?scale=100&title=MAX&width=400&color=A78BFA&suffix=%" /></td>
     </tr>
     <tr>
       <td><b>⚛️ FRONTEND_MASTERY</b></td>
-      <td><img src="https://progress-bar.dev/94/?scale=100&title=ELITE&width=450&color=7C3AED&suffix=%" /></td>
+      <td><img src="https://progress-bar.dev/94/?scale=100&title=ELITE&width=400&color=7C3AED&suffix=%" /></td>
     </tr>
     <tr>
       <td><b>🎯 PRODUCT_INSTINCT</b></td>
-      <td><img src="https://progress-bar.dev/88/?scale=100&title=HIGH&width=450&color=06B6D4&suffix=%" /></td>
+      <td><img src="https://progress-bar.dev/88/?scale=100&title=HIGH&width=400&color=06B6D4&suffix=%" /></td>
     </tr>
     <tr>
       <td><b>🛡️ SECURITY_SHIELD</b></td>
-      <td><img src="https://progress-bar.dev/82/?scale=100&title=SECURE&width=450&color=10B981&suffix=%" /></td>
+      <td><img src="https://progress-bar.dev/82/?scale=100&title=SECURE&width=400&color=10B981&suffix=%" /></td>
     </tr>
     <tr>
       <td><b>⚙️ BACKEND_ENGINE</b></td>
-      <td><img src="https://progress-bar.dev/78/?scale=100&title=CORE&width=450&color=94A3B8&suffix=%" /></td>
+      <td><img src="https://progress-bar.dev/78/?scale=100&title=CORE&width=400&color=94A3B8&suffix=%" /></td>
     </tr>
   </table>
 </div>
@@ -141,24 +172,24 @@ My workflow utilizes **Swiss-design principles** for layout and **Modern-Defense
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=80&section=header&text=%E2%9C%A7%20ACTIVE_QUEST_LOG%20%E2%9C%A7&fontSize=35&animation=fadeIn&fontAlignY=50&theme=tokyonight&fontAlign=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=60&section=header&text=%E2%9C%A7%20ACTIVE_QUEST_LOG%20%E2%9C%A7&fontSize=30&animation=fadeIn&fontAlignY=50&theme=tokyonight&fontAlign=center" width="100%" />
 </div>
 
 <div align="left">
   <pre>
   <b>[!] ACTIVE_MISSIONS</b>
   ──────────────────────────────────────────────────────────
-  ◈ <b>PROJECT_STARK_VAULT</b> ......... [ ██████████ ] 100%
-    > Zero-knowledge Portal / Security Rank: S
+  ◈ <b>STARK_VAULT</b> ......... [ ██████████ ] 100% 
+    > TYPE: SECURITY_PORTAL // RANK: S
   
-  ◈ <b>PROJECT_LUMEN_OS</b> ............ [ ████████░░ ] 80%
-    > E2EE File System / UI Art Rank: A+
+  ◈ <b>LUMEN_OS</b> ............ [ ████████░░ ] 80%  
+    > TYPE: E2EE_FS // RANK: A+
   
-  ◈ <b>PROJECT_VOTE_LEDGER</b> ......... [ ██████████ ] 100%
-    > Blockchain Audit / Integrity Rank: SS
+  ◈ <b>VOTE_LEDGER</b> ......... [ ██████████ ] 100% 
+    > TYPE: BLOCKCHAIN_AUDIT // RANK: SS
   
-  ◈ <b>PROJECT_OBSIDIAN_UI</b> ......... [ ████░░░░░░ ] 40%
-    > Enterprise SaaS Lib / Performance: S
+  ◈ <b>OBSIDIAN_UI</b> ......... [ ████░░░░░░ ] 40%  
+    > TYPE: SAAS_LIB // RANK: S
   ──────────────────────────────────────────────────────────
   </pre>
 </div>
@@ -168,20 +199,19 @@ My workflow utilizes **Swiss-design principles** for layout and **Modern-Defense
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=80&section=header&text=%E2%96%B3%20SYSTEM_TELEMETRY%20%E2%96%B3&fontSize=35&animation=fadeIn&fontAlignY=50&theme=tokyonight&fontAlign=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=60&section=header&text=%E2%96%B△%20SYSTEM_TELEMETRY%20%E2%96%B3&fontSize=30&animation=fadeIn&fontAlignY=50&theme=tokyonight&fontAlign=center" width="100%" />
 </div>
 
 <div align="center">
   <pre>
-  ┌────────────────────────────────────────────────────────────────────────┐
-  │ [>] MONITORING_STREAMS...                                              │
-  │ [>] DATA_PACKETS: RECIEVING                                            │
-  └────────────────────────────────────────────────────────────────────────┘
+  ┌────────────────────────────────────────────────────────┐
+  │ [>] MONITORING_STREAMS... DATA_PACKETS: OK             │
+  └────────────────────────────────────────────────────────┘
   </pre>
   <table border="0">
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Nishchayanand-Patil&show_icons=true&theme=tokyonight&title_color=A78BFA&text_color=F8FAFC&icon_color=06B6D4&hide_border=true&include_all_commits=true&count_private=true" height="200" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishchayanand-Patil&layout=compact&theme=tokyonight&title_color=A78BFA&text_color=F8FAFC&hide_border=true" height="200" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Nishchayanand-Patil&show_icons=true&theme=tokyonight&title_color=A78BFA&text_color=F8FAFC&icon_color=06B6D4&hide_border=true&include_all_commits=true&count_private=true" height="180" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishchayanand-Patil&layout=compact&theme=tokyonight&title_color=A78BFA&text_color=F8FAFC&hide_border=true" height="180" /></td>
     </tr>
   </table>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishchayanand-Patil&theme=tokyonight&hide_border=true&background=0A0D14" width="100%" />
@@ -189,10 +219,8 @@ My workflow utilizes **Swiss-design principles** for layout and **Modern-Defense
 
 <br />
 
-<br />
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=80&section=header&text=%E2%9C%BF%20CONTRIBUTION_FLOW%20%E2%9C%BF&fontSize=35&animation=fadeIn&fontAlignY=50&theme=tokyonight&fontAlign=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=60&section=header&text=%E2%9C%BF%20CONTRIBUTION_FLOW%20%E2%9C%BF&fontSize=30&animation=fadeIn&fontAlignY=50&theme=tokyonight&fontAlign=center" width="100%" />
 </div>
 
 <div align="center">
@@ -201,15 +229,44 @@ My workflow utilizes **Swiss-design principles** for layout and **Modern-Defense
 
 <br />
 
-<br />
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=80&section=header&text=%E2%9C%AA%20HALL_OF_FAME%20%E2%9C%AA&fontSize=35&animation=fadeIn&fontAlignY=50&theme=tokyonight&fontAlign=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=60&section=header&text=%E2%9C%AA%20HALL_OF_FAME%20%E2%9C%AA&fontSize=30&animation=fadeIn&fontAlignY=50&theme=tokyonight&fontAlign=center" width="100%" />
 </div>
 
-- 🏆 **[GOLD_MEDAL]** Winner of Inter-University Hackathon [Year]
-- 📜 **[SEC_SCROLL]** Specialist: Modern Application Security (OWASP)
-- 🚀 **[WARP_DRIVE]** Shipped MVP [Product] for 2,000+ Beta Users
+<div align="left">
+  <pre>
+  🏆 [GOLD_MEDAL] Winner Inter-U Hackathon
+  📜 [SEC_SCROLL] Specialist: OWASP Security
+  🚀 [WARP_DRIVE] Shipped MVP for 2K+ Users
+  </pre>
+</div>
+
+</td>
+
+<!-- RIGHT_PILLAR_DECOR -->
+<td valign="top" width="100" align="center">
+  <br/><br/><br/><br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMG9pXqO7A6q1G/giphy.gif" width="50" />
+  <pre>
+ ┌────┐
+ │ HP │
+ ├────┤
+ │ ██ │
+ │ ██ │
+ │ ██ │
+ │ ██ │
+ │ ██ │
+ │ ██ │
+ │ ░░ │
+ │ ░░ │
+ └────┘
+  NODE
+  </pre>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/QUOOHX7kR0NMBz9j9Y/giphy.gif" width="40" />
+</td>
+</tr>
+</table>
+</div>
 
 <br />
 
@@ -223,7 +280,6 @@ My workflow utilizes **Swiss-design principles** for layout and **Modern-Defense
   <table border="0">
     <tr>
       <td align="center" valign="bottom">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHYyeGN4M3N4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVtoG3fxM389ia/giphy.gif" width="50" />
         <pre>
   [█]  
   [█]  
@@ -247,7 +303,6 @@ My workflow utilizes **Swiss-design principles** for layout and **Modern-Defense
         </pre>
       </td>
       <td align="center" valign="bottom">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHYyeGN4M3N4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eDV4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVtoG3fxM389ia/giphy.gif" width="50" />
         <pre>
   [█]  
   [█]  
