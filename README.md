@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/Nishchayanand-Patil"><img src="https://img.shields.io/badge/-COMM_LINK-111827?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
   &nbsp;
-  <a href="mailto:bhavyachopda28@gmail.com"><img src="https://img.shields.io/badge/-ENCRYPTED_MAIL-111827?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
+  <a href="mailto:nishchay.a.patil@gmail.com"><img src="https://img.shields.io/badge/-ENCRYPTED_MAIL-111827?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
   &nbsp;
   <a href="https://github.com/Nishchayanand-Patil"><img src="https://img.shields.io/badge/-DATAVIZ_REPOS-111827?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>
 </p>
