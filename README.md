@@ -40,7 +40,7 @@
       <td width="300" align="center" valign="top" style="background: rgba(10, 13, 20, 0.5); border: 2px solid #A78BFA; border-radius: 15px 0 0 15px;">
         <br/>
         <div style="padding: 10px; border: 2px solid #A78BFA; border-radius: 10px; background: #0A0D14; display: inline-block;">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMG9pXqO7A6q1G/giphy.gif" width="160" style="image-rendering: pixelated;" />
+          <img src="https://media.giphy.com/media/3o7TKMG9pXqO7A6q1G/giphy.gif" width="160" style="image-rendering: pixelated;" />
         </div>
         <br/><br/>
         <img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=250&lines=%E3%80%90+RANK:+S-CLASS+%E3%80%91;%E3%80%90+LVL:+99+MAX+%E3%80%91" alt="Rank Typing" />
@@ -51,7 +51,7 @@
       <!-- RIGHT COLUMN: YAML SHEET -->
       <td width="550" align="left" valign="top" style="background: #0D1117; border: 2px solid #A78BFA; border-left: none; border-radius: 0 15px 15px 0; padding: 20px;">
 
-```yaml
+<pre>
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 📂 CHARACTER_SHEET :: PLAYER_ONE
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -74,7 +74,7 @@ Mission_Intel:
                  like a second skin while keeping
                  the core impregnable."
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+</pre>
 
       </td>
     </tr>
@@ -147,8 +147,8 @@ Mission_Intel:
 </div>
 
 <div align="center">
-  <!-- Note: This currently points to a demo snake until your GitHub Action runs for the first time. Once your action generates the file, replace this URL with your own: https://raw.githubusercontent.com/Nishchayanand-Patil/Nishchayanand-Patil/output/github-contribution-grid-snake-dark.svg -->
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+  <!-- IMPORTANT: The snake image WILL BLANK until your GitHub action runs! -->
+  <img src="https://raw.githubusercontent.com/Nishchayanand-Patil/Nishchayanand-Patil/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" onerror="this.src='https://raw.githubusercontent.com/Platane/snk/main/demo.svg'" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishchayanand-Patil&theme=tokyonight&bg_color=0A0D14&hide_border=true" width="100%" />
 </div>
@@ -210,7 +210,7 @@ Mission_Intel:
   <table border="0">
     <tr>
       <td align="center" width="600">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6YWZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/QUOOHX7kR0NMBz9j9Y/giphy.gif" width="60" />
+        <img src="https://media.giphy.com/media/QUOOHX7kR0NMBz9j9Y/giphy.gif" width="60" />
         <br/>
         <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=400&size=16&pause=2000&color=F59E0B&center=true&vCenter=true&width=600&lines=%E2%9E%A4+ARCHIVING_SESSION...;%E2%9E%A4+MEMORY_DUMP:_OK;%E2%9E%A4+GAME_SAVED:_SUCCESS!" alt="Save Typing" />
         <br/>
