@@ -96,10 +96,10 @@ OPERATIONAL_STATS:
   Availability   : "[ OPEN FOR ELITE OPS ]"
 
 ABILITY_SCORES:
-  Frontend_Mastery   : ██████████   90/100
+  Frontend_Mastery   : █████████░   90/100
   Backend_Integrity  : █████████░   88/100
   Cyber_Defense      : ████████░░   84/100
-  System_Design      : █████████░   85/100
+  System_Design      : ████████░░   85/100
   DevOps_Synergy     : ███████░░░   76/100
 
 PHILOSOPHY:
