@@ -147,7 +147,7 @@ Mission_Intel:
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nishchayanand-Patil/Nishchayanand-Patil/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Nishchayanand-Patil/Nishchayanand-Patil/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishchayanand-Patil&theme=tokyonight&bg_color=0A0D14&hide_border=true" width="100%" />
 </div>
