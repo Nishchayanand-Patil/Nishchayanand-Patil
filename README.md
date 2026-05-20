@@ -147,7 +147,8 @@ Mission_Intel:
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nishchayanand-Patil/Nishchayanand-Patil/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+  <!-- Note: This currently points to a demo snake until your GitHub Action runs for the first time. Once your action generates the file, replace this URL with your own: https://raw.githubusercontent.com/Nishchayanand-Patil/Nishchayanand-Patil/output/github-contribution-grid-snake-dark.svg -->
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishchayanand-Patil&theme=tokyonight&bg_color=0A0D14&hide_border=true" width="100%" />
 </div>
@@ -158,6 +159,11 @@ Mission_Intel:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=60&section=header&text=%E2%96%B3%20SYSTEM_TELEMETRY%20%E2%96%B3&fontSize=30&animation=twinkling&theme=tokyonight" width="100%" />
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nishchayanand-Patil&label=PROFILE+VIEWS&color=A78BFA&style=for-the-badge" alt="Profile Views" />
+</div>
+<br/>
 
 <div align="center">
   <table border="0">
@@ -230,6 +236,13 @@ Mission_Intel:
   <a href="https://linkedin.com/in/Nishchayanand-Patil">
     <img src="https://skillicons.dev/icons?i=linkedin,gmail,github,twitter,instagram,discord&theme=dark" />
   </a>
+</div>
+
+<br />
+
+<!-- 💬 INSPIRATION MODULE -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
 
 <br />
