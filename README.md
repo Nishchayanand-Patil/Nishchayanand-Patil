@@ -11,8 +11,8 @@
 <!-- ═══════════════════════ BADGES ═══════════════════════ -->
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/COMM__LINK-0A0D14?style=for-the-badge&logo=linkedin&logoColor=A78BFA&labelColor=1a0a2e)](https://linkedin.com/in/Nishchayanand-Patil)
-[![Gmail](https://img.shields.io/badge/ENCRYPTED__MAIL-0A0D14?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=1a0a2e)](mailto:bhavyachopda28@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/COMM__LINK-0A0D14?style=for-the-badge&logo=linkedin&logoColor=A78BFA&labelColor=1a0a2e)]([https://linkedin.com/in/Nishchayanand-Patil](https://www.linkedin.com/in/nishchayanand-patil-433254410/))
+[![Gmail](https://img.shields.io/badge/ENCRYPTED__MAIL-0A0D14?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=1a0a2e)](mailto:nishchay.a.patil@gmail.com)
 [![GitHub](https://img.shields.io/badge/CODEBASE__HUB-0A0D14?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=1a0a2e)](https://github.com/Nishchayanand-Patil)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO__UPLINK-0A0D14?style=for-the-badge&logo=vercel&logoColor=A78BFA&labelColor=1a0a2e)](#)
 
