@@ -50,9 +50,7 @@
       </td>
       <!-- RIGHT COLUMN: YAML SHEET -->
       <td width="550" align="left" valign="top" style="background: #0D1117; border: 2px solid #A78BFA; border-left: none; border-radius: 0 15px 15px 0; padding: 20px;">
-
-<pre>
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<pre><code># ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 📂 CHARACTER_SHEET :: PLAYER_ONE
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Base_Identity:
@@ -73,9 +71,7 @@ Mission_Intel:
   Statement   : "Forging digital armor that feels
                  like a second skin while keeping
                  the core impregnable."
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</pre>
-
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code></pre>
       </td>
     </tr>
   </table>
@@ -147,8 +143,12 @@ Mission_Intel:
 </div>
 
 <div align="center">
-  <!-- IMPORTANT: The snake image WILL BLANK until your GitHub action runs! -->
-  <img src="https://raw.githubusercontent.com/Nishchayanand-Patil/Nishchayanand-Patil/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" onerror="this.src='https://raw.githubusercontent.com/Platane/snk/main/demo.svg'" />
+  <!-- Showing a demo snake graph until you replace this URL with your own after the GitHub Action runs! -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishchayanand-Patil&theme=tokyonight&bg_color=0A0D14&hide_border=true" width="100%" />
 </div>
