@@ -1,14 +1,4 @@
-<!-- 
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  ██████╗ ██████╗ ██████╗ ███████╗    ██████╗ ███████╗ ██████╗ ██╗  ██╗    ║
-║  ██╔════╝██╔═══██╗██╔══██╗██╔════╝    ██╔══██╗██╔════╝██╔════╝██║ ██╔╝    ║
-║  ██║     ██║   ██║██████╔╝█████╗      ██║  ██║█████╗  ██║     █████╔╝     ║
-║  ██║     ██║   ██║██╔══██╗██╔══╝      ██║  ██║██╔══╝  ██║     ██╔═██╗     ║
-║  ╚██████╗╚██████╔╝██║  ██║███████╗    ██████╔╝███████╗╚██████╗██║  ██╗    ║
-║   ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝    ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝    ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-        NISHCHAYANAND_PATIL :: SYSTEM_PROFILE_V3.0 :: ELITE_ARCHITECT
--->
+<!-- NISHCHAYANAND_PATIL :: SYSTEM_PROFILE_V4.0 :: ELITE_ARCHITECT -->
 
 <div align="center">
 
@@ -47,11 +37,7 @@
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  ◈  S E C T I O N _ 0 1   ▸   G I T H U B   T R O P H Y   V A U L T │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=50&section=header&text=◈%20SECTION_01%20//%20TROPHY_VAULT%20◈&fontSize=24&fontColor=A78BFA&animation=fadeIn" width="100%" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=Nishchayanand-Patil&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&column=7&title=Stars,Commits,Repositories,Followers,PullRequest,Issues,MultiLanguage" alt="Trophies" />
 
@@ -65,11 +51,7 @@
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  ◈  S E C T I O N _ 0 2   ▸   C H A R A C T E R   M A T R I X     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=50&section=header&text=◈%20SECTION_02%20//%20CHARACTER_MATRIX%20◈&fontSize=24&fontColor=A78BFA&animation=fadeIn" width="100%" />
 
 </div>
 
@@ -142,11 +124,7 @@ PHILOSOPHY:
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  ◈  S E C T I O N _ 0 3   ▸   L E G E N D A R Y   L O A D O U T   │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=50&section=header&text=◈%20SECTION_03%20//%20LEGENDARY_LOADOUT%20◈&fontSize=24&fontColor=A78BFA&animation=fadeIn" width="100%" />
 
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,go,postgres,redis,docker,kubernetes,tailwind,figma,vercel&perline=6&theme=dark" />
 
@@ -194,11 +172,7 @@ PHILOSOPHY:
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  ◈  S E C T I O N _ 0 4   ▸   A C T I V E   Q U E S T   L O G     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=50&section=header&text=◈%20SECTION_04%20//%20ACTIVE_QUEST_LOG%20◈&fontSize=24&fontColor=A78BFA&animation=fadeIn" width="100%" />
 
 </div>
 
@@ -235,11 +209,7 @@ PHILOSOPHY:
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  ◈  S E C T I O N _ 0 5   ▸   L E G E N D A R Y   U N L O C K S   │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=50&section=header&text=◈%20SECTION_05%20//%20LEGENDARY_UNLOCKS%20◈&fontSize=24&fontColor=A78BFA&animation=fadeIn" width="100%" />
 
 </div>
 
@@ -306,11 +276,7 @@ PHILOSOPHY:
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  ◈  S E C T I O N _ 0 6   ▸   C O N T R I B U T I O N   F L O W   │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=50&section=header&text=◈%20SECTION_06%20//%20CONTRIBUTION_FLOW%20◈&fontSize=24&fontColor=A78BFA&animation=fadeIn" width="100%" />
 
 <!-- 
   ⚠️  IMAGE ACTION REQUIRED:
@@ -360,11 +326,7 @@ PHILOSOPHY:
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  ◈  S E C T I O N _ 0 7   ▸   S Y S T E M   T E L E M E T R Y     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=50&section=header&text=◈%20SECTION_07%20//%20SYSTEM_TELEMETRY%20◈&fontSize=24&fontColor=A78BFA&animation=fadeIn" width="100%" />
 
 <table border="0">
   <tr>
@@ -400,11 +362,7 @@ PHILOSOPHY:
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  ◈  S E C T I O N _ 0 8   ▸   A C T I V E   R E S E A R C H       │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=50&section=header&text=◈%20SECTION_08%20//%20ACTIVE_RESEARCH%20◈&fontSize=24&fontColor=A78BFA&animation=fadeIn" width="100%" />
 
 </div>
 
@@ -436,11 +394,7 @@ PHILOSOPHY:
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  ◈  S E C T I O N _ 0 9   ▸   S E S S I O N   A R C H I V E       │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=50&section=header&text=◈%20SECTION_09%20//%20SESSION_ARCHIVE%20◈&fontSize=24&fontColor=A78BFA&animation=fadeIn" width="100%" />
 
 <img src="https://media.giphy.com/media/QUOOHX7kR0NMBz9j9Y/giphy.gif" width="55" alt="Save icon"/>
 
