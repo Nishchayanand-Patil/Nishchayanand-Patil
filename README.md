@@ -1,3 +1,5 @@
+<!-- NISHCHAYANAND_PATIL :: SYSTEM_PROFILE_V4.0 :: ELITE_ARCHITECT -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0D14,30:1a0a2e,60:0d1117,100:0A0D14&height=300&section=header&text=NISHCHAYANAND&fontSize=65&fontColor=A78BFA&animation=fadeIn&fontAlignY=38&desc=◈%20FULL-STACK%20ENGINEER%20◈%20UI/UX%20DESIGNER%20◈%20CYBERSECURITY%20◈&descSize=16&descAlignY=62&stroke=A78BFA&strokeWidth=2" width="100%" />
@@ -28,7 +30,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=50&section=header&text=◈%20SECTION_01%20//%20TROPHY_VAULT%20◈&fontSize=24&fontColor=A78BFA&animation=fadeIn" width="100%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nishchayanand-Patil&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&column=7&title=Stars,Commits,Repositories,Followers,PullRequest,Issues,MultiLanguage" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Nishchayanand-Patil&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
 
 </div>
 
