@@ -1,5 +1,3 @@
-<!-- NISHCHAYANAND_PATIL :: SYSTEM_PROFILE_V4.0 :: ELITE_ARCHITECT -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0D14,30:1a0a2e,60:0d1117,100:0A0D14&height=300&section=header&text=NISHCHAYANAND&fontSize=65&fontColor=A78BFA&animation=fadeIn&fontAlignY=38&desc=◈%20FULL-STACK%20ENGINEER%20◈%20UI/UX%20DESIGNER%20◈%20CYBERSECURITY%20◈&descSize=16&descAlignY=62&stroke=A78BFA&strokeWidth=2" width="100%" />
@@ -16,9 +14,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=Nishchayanand-Patil&label=◈+PROFILE+VIEWS&color=A78BFA&style=flat-square" />
 &nbsp;
-![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00ff88?style=flat-square&labelColor=0A0D14)
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00ff88?style=flat-square&labelColor=0A0D14" alt="Status" />
 &nbsp;
-![Location](https://img.shields.io/badge/LOCATION-Nagpur,_India-A78BFA?style=flat-square&labelColor=0A0D14)
+<img src="https://img.shields.io/badge/LOCATION-Nagpur%2C_India-A78BFA?style=flat-square&labelColor=0A0D14" alt="Location" />
 
 </div>
 
@@ -30,7 +28,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=50&section=header&text=◈%20SECTION_01%20//%20TROPHY_VAULT%20◈&fontSize=24&fontColor=A78BFA&animation=fadeIn" width="100%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nishchayanand-Patil&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Nishchayanand-Patil&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8&column=4" alt="Trophies Row 1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Nishchayanand-Patil&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8&column=4&rank=B,C,UNKNOWN" alt="Trophies Row 2" />
 
 </div>
 
@@ -262,15 +261,15 @@ PHILOSOPHY:
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Nishchayanand-Patil&show_icons=true&theme=tokyonight&title_color=A78BFA&text_color=F8FAFC&icon_color=06B6D4&hide_border=true&include_all_commits=true&count_private=true&bg_color=0A0D14&ring_color=A78BFA" height="195" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Nishchayanand-Patil&show_icons=true&theme=tokyonight&title_color=A78BFA&text_color=F8FAFC&icon_color=06B6D4&hide_border=true&include_all_commits=true&count_private=true&bg_color=0A0D14&ring_color=A78BFA&cache_seconds=1800" height="195" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishchayanand-Patil&layout=donut&theme=tokyonight&title_color=A78BFA&text_color=F8FAFC&hide_border=true&bg_color=0A0D14&langs_count=8" height="195" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishchayanand-Patil&layout=compact&theme=tokyonight&title_color=A78BFA&text_color=F8FAFC&hide_border=true&bg_color=0A0D14&langs_count=8&cache_seconds=1800" height="195" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishchayanand-Patil&theme=tokyonight&hide_border=true&background=0A0D14&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA&sideLabels=06B6D4" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=Nishchayanand-Patil&theme=tokyonight&hide_border=true&background=0A0D14&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA&sideLabels=06B6D4" width="70%" />
 
 </div>
 
