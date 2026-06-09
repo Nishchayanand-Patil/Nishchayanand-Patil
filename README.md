@@ -148,31 +148,31 @@ PHILOSOPHY:
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                      [ EXPERIENCE :: MISSION RECORD ]                      ║
+║                       [ EXPERIENCE :: MISSION RECORD ]                       ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
-║  ◈ MAHARASHTRA REMOTE SENSING APPLICATION CENTRE    Dec 2025 – Mar 2026    ║
-║    Full-Stack Web Engineer — Geospatial Data & Security                     ║
-║    ┗━ Built SentraScope: secure env-monitoring & geospatial analysis app    ║
-║    ┗━ Designed real-time data visualization dashboard for decision-making   ║
-║    ┗━ Implemented access control protocols and application security         ║
-║    ┗━ Conducted geospatial analysis for urban planning initiatives          ║
+║  ◈ MAHARASHTRA REMOTE SENSING APPLICATION CENTRE    Dec 2025 - Mar 2026      ║
+║    Full-Stack Web Engineer - Geospatial Data & Security                      ║
+║    ┗━ Built SentraScope: secure env-monitoring & geospatial analysis app     ║
+║    ┗━ Designed real-time data visualization dashboard for decision-making    ║
+║    ┗━ Implemented access control protocols and application security          ║
+║    ┗━ Conducted geospatial analysis for urban planning initiatives           ║
 ║                                                                              ║
-║  ◈ VISTAIO TECHNOLOGIES                             May 2025 – Jun 2025    ║
+║  ◈ VISTAIO TECHNOLOGIES                             May 2025 - Jun 2025      ║
 ║    Data Analyst Intern                                                       ║
-║    ┗━ Analyzed web traffic & user behavior via Google Analytics datasets    ║
-║    ┗━ Built interactive Google Data Studio dashboards & Colab scripts       ║
-║    ┗━ Cleaned & structured data for reporting accuracy and reliability      ║
-║    ┗━ Optimized traffic channels to boost digital engagement                ║
+║    ┗━ Analyzed web traffic & user behavior via Google Analytics datasets     ║
+║    ┗━ Built interactive Google Data Studio dashboards & Colab scripts        ║
+║    ┗━ Cleaned & structured data for reporting accuracy and reliability       ║
+║    ┗━ Optimized traffic channels to boost digital engagement                 ║
 ║                                                                              ║
-║  ◈ LGPS HYBRID ENERGY PVT LTD                       Jun 2024 – Jun 2024    ║
+║  ◈ LGPS HYBRID ENERGY PVT LTD                       Jun 2024 - Jun 2024      ║
 ║    Data Science Intern                                                       ║
-║    ┗━ Developed full-stack sports analysis app with performance tracking    ║
-║    ┗━ Conducted player performance assessments to inform training strategy  ║
-║    ┗━ Visualized data flow and resolved technical issues in the system      ║
+║    ┗━ Developed full-stack sports analysis app with performance tracking     ║
+║    ┗━ Conducted player performance assessments to inform training strategy   ║
+║    ┗━ Visualized data flow and resolved technical issues in the system       ║
 ║                                                                              ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║  INTERNSHIPS: 3  │  DOMAINS: Geospatial · Analytics · Sports Science       ║
+║  INTERNSHIPS: 3  │  DOMAINS: Geospatial · Analytics · Sports Science         ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -284,20 +284,20 @@ PHILOSOPHY:
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║              [ CURRENT SKILL ACQUISITION — LIVE PROTOCOLS ]               ║
+║                [ CURRENT SKILL ACQUISITION - LIVE PROTOCOLS ]                ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
-║  🌐  ADVANCED WEB SECURITY     ████████████████░░░░   80%  NEAR_COMPLETE   ║
-║      Anti-SQLi · CSRF Defense · Access Control · Secure Architecture       ║
+║  🌐  ADVANCED WEB SECURITY     ████████████████░░░░   80%  NEAR_COMPLETE     ║
+║      Anti-SQLi · CSRF Defense · Access Control · Secure Architecture         ║
 ║                                                                              ║
-║  📊  DATA ENGINEERING          ████████████░░░░░░░░   60%  IN_PROGRESS     ║
-║      Looker Studio · Analytics Pipelines · Google Colab · Data Flow        ║
+║  📊  DATA ENGINEERING          ████████████░░░░░░░░   60%  IN_PROGRESS       ║
+║      Looker Studio · Analytics Pipelines · Google Colab · Data Flow          ║
 ║                                                                              ║
-║  🗺️  GEOSPATIAL ANALYSIS       ██████████░░░░░░░░░░   50%  PROTOTYPING     ║
-║      Google Earth Engine · Urban Planning · Environmental Monitoring        ║
+║  🗺️  GEOSPATIAL ANALYSIS       ██████████░░░░░░░░░░   50%  PROTOTYPING       ║
+║      Google Earth Engine · Urban Planning · Environmental Monitoring         ║
 ║                                                                              ║
-║  🤖  MACHINE LEARNING & CV     ██████████████░░░░░░   70%  ACTIVE STUDY    ║
-║      OpenCV · ML Algorithms · Google Earth Engine · Computer Vision        ║
+║  🤖  MACHINE LEARNING & CV     ██████████████░░░░░░   70%  ACTIVE STUDY      ║
+║      OpenCV · ML Algorithms · Google Earth Engine · Computer Vision          ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -313,14 +313,14 @@ PHILOSOPHY:
 ```
  ╔══════════════════════════════════════════════════════════════╗
  ║                                                              ║
- ║    ◈ IDENTITY        : Nishchayanand Patil                  ║
- ║    ◈ DEGREE          : B.Tech CSE — S.B. Jain Institute     ║
- ║    ◈ GATE_2026       : QUALIFIED (CS & DA) ✅               ║
- ║    ◈ LOCATION        : Nagpur, Maharashtra, India           ║
- ║    ◈ STATUS          : OPEN FOR OPPORTUNITIES ✅            ║
- ║    ◈ NEXT_MISSION    : ALWAYS_BUILDING                      ║
+ ║    ◈ IDENTITY        : Nishchayanand Patil                   ║
+ ║    ◈ DEGREE          : B.Tech CSE - S.B. Jain Institute      ║
+ ║    ◈ GATE_2026       : QUALIFIED (CS & DA) ✅                ║
+ ║    ◈ LOCATION        : Nagpur, Maharashtra, India            ║
+ ║    ◈ STATUS          : OPEN FOR OPPORTUNITIES ✅             ║
+ ║    ◈ NEXT_MISSION    : ALWAYS_BUILDING                       ║
  ║                                                              ║
- ║           [ CONNECTION_SECURE // SYNC_COMPLETE ]            ║
+ ║            [ CONNECTION_SECURE // SYNC_COMPLETE ]            ║
  ╚══════════════════════════════════════════════════════════════╝
 ```
 
