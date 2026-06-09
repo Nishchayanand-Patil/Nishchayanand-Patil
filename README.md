@@ -16,7 +16,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Nishchayanand-Patil&label=◈+PROFILE+VIEWS&color=A78BFA&style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00ff88?style=flat-square&labelColor=0A0D14" alt="Status" />
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-66ff99?style=flat-square&labelColor=0A0D14" alt="Status" />
 &nbsp;
 <img src="https://img.shields.io/badge/LOCATION-Nagpur,_India-A78BFA?style=flat-square&labelColor=0A0D14" alt="Location" />
 
@@ -54,7 +54,7 @@
 
 ![CGPA](https://img.shields.io/badge/CGPA-7.62-06B6D4?style=for-the-badge&labelColor=0A0D14)
 
-![GATE](https://img.shields.io/badge/GATE_2026-CS_%26_DA_QUALIFIED-00ff88?style=for-the-badge&labelColor=0A0D14)
+![GATE](https://img.shields.io/badge/GATE_2026-CS_%26_DA_QUALIFIED-66ff99?style=for-the-badge&labelColor=0A0D14)
 
 </td>
 <td width="20"></td>
@@ -121,7 +121,7 @@ PHILOSOPHY:
     </td>
     <td align="center" width="20">⚡</td>
     <td align="center" width="220">
-      <img src="https://img.shields.io/badge/📊_DATA_&_AI-TOOLKIT-00ff88?style=for-the-badge&labelColor=0A0D14" /><br/><br/>
+      <img src="https://img.shields.io/badge/📊_DATA_&_AI-TOOLKIT-66ff99?style=for-the-badge&labelColor=0A0D14" /><br/><br/>
       <code>OpenCV</code> <code>Machine Learning</code><br/>
       <code>Google Earth Engine</code><br/>
       <code>Looker Studio</code>
@@ -202,7 +202,7 @@ PHILOSOPHY:
       <h3>⚡</h3>
       <b>HACKWACK HACKATHON</b><br/>
       <sub>12-Hour Overnight Inter-College</sub><br/>
-      <img src="https://img.shields.io/badge/FORMAT-12H_OVERNIGHT-00ff88?style=flat-square&labelColor=0A0D14" />
+      <img src="https://img.shields.io/badge/FORMAT-12H_OVERNIGHT-66ff99?style=flat-square&labelColor=0A0D14" />
     </td>
     <td align="center" width="200">
       <h3>📋</h3>
@@ -228,7 +228,7 @@ PHILOSOPHY:
       <h3>🐧</h3>
       <b>LINUX & SQL</b><br/>
       <sub>Practitioner</sub><br/>
-      <img src="https://img.shields.io/badge/CERT-PRACTITIONER-00ff88?style=flat-square&labelColor=0A0D14" />
+      <img src="https://img.shields.io/badge/CERT-PRACTITIONER-66ff99?style=flat-square&labelColor=0A0D14" />
     </td>
     <td align="center" width="200">
       <h3>⚙️</h3>
