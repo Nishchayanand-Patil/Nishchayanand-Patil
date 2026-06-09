@@ -334,7 +334,7 @@ PHILOSOPHY:
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" width="80%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=400&size=18&duration=5000&pause=2000&color=06B6D4&center=true&vCenter=true&width=800&lines=%22The+only+way+to+do+great+work+is+to+love+what+you+do.%22;%22First,+solve+the+problem.+Then,+write+the+code.%22;%22Simplicity+is+the+soul+of+efficiency.%22;%22Talk+is+cheap.+Show+me+the+code.%22;%22Make+it+work,+make+it+right,+make+it+fast.%22" alt="Quote" />
 
 <br/><br/>
 
