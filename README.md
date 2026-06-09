@@ -1,8 +1,10 @@
+<!-- NISHCHAYANAND_PATIL :: SYSTEM_PROFILE_V4.0 :: ELITE_ARCHITECT -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0D14,30:1a0a2e,60:0d1117,100:0A0D14&height=300&section=header&text=NISHCHAYANAND&fontSize=65&fontColor=A78BFA&animation=fadeIn&fontAlignY=38&desc=◈%20CYBERSECURITY%20ENGINEER%20◈%20FULL-STACK%20DEV%20◈%20UI/UX%20DESIGNER%20◈%20CLOUD%20◈&descSize=15&descAlignY=62&stroke=A78BFA&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0D14,30:1a0a2e,60:0d1117,100:0A0D14&height=300&section=header&text=NISHCHAYANAND&fontSize=65&fontColor=A78BFA&animation=fadeIn&fontAlignY=38&desc=◈%20FULL-STACK%20ENGINEER%20◈%20UI/UX%20DESIGNER%20◈%20CYBERSECURITY%20◈&descSize=16&descAlignY=62&stroke=A78BFA&strokeWidth=2" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=800&lines=◈+CYBERSECURITY-FOCUSED+SOFTWARE+ENGINEER;◈+Anti-SQLi+%7C+CSRF+Protection+%7C+Secure+Architecture;◈+Cloud+%7C+Docker+%7C+GitHub+Actions+%7C+AWS+(Pursuing);◈+GATE+2026+QUALIFIED+—+CS+%26+DA;◈+BUILDING+SECURE%2C+SCALABLE+%26+INTUITIVE+SYSTEMS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=750&lines=◈+FULL-STACK+ENGINEER+%2B+UI/UX+DESIGNER;◈+CYBERSECURITY%3A+Anti-SQLi+%7C+CSRF+Defense+%7C+Access+Control;◈+GATE+2026+QUALIFIED+—+CS+%26+DA;◈+STATUS%3A+AVAILABLE+FOR+OPPORTUNITIES;◈+BUILDING+SECURE+%26+INTUITIVE+WEB+SYSTEMS" alt="Typing" />
 
 <br/>
 
@@ -12,11 +14,11 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Nishchayanand-Patil&label=◈+PROFILE+VIEWS&color=A78BFA&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Nishchayanand-Patil&label=◈+PROFILE+VIEWS&color=A78BFA&style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00ff88?style=flat-square&labelColor=0A0D14" alt="Status" />
+![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00ff88?style=flat-square&labelColor=0A0D14)
 &nbsp;
-<img src="https://img.shields.io/badge/LOCATION-Nagpur%2C_India-A78BFA?style=flat-square&labelColor=0A0D14" alt="Location" />
+![Location](https://img.shields.io/badge/LOCATION-Nagpur,_India-A78BFA?style=flat-square&labelColor=0A0D14)
 
 </div>
 
@@ -28,8 +30,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=50&section=header&text=◈%20SECTION_01%20//%20TROPHY_VAULT%20◈&fontSize=24&fontColor=A78BFA&animation=fadeIn" width="100%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nishchayanand-Patil&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8&column=4" alt="Trophies Row 1" />
-<img src="https://github-profile-trophy.vercel.app/?username=Nishchayanand-Patil&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8&column=4&rank=B,C,UNKNOWN" alt="Trophies Row 2" />
+<img src="https://github-profile-trophy.vercel.app/?username=Nishchayanand-Patil&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
 
 </div>
 
@@ -49,19 +50,11 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer_Science-A78BFA?style=for-the-badge&labelColor=0A0D14" alt="Degree" />
+![Degree](https://img.shields.io/badge/B.Tech-Computer_Science-A78BFA?style=for-the-badge&labelColor=0A0D14)
 
-<br/>
+![CGPA](https://img.shields.io/badge/CGPA-7.62-06B6D4?style=for-the-badge&labelColor=0A0D14)
 
-<img src="https://img.shields.io/badge/CGPA-7.62-06B6D4?style=for-the-badge&labelColor=0A0D14" alt="CGPA" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/GATE_2026-CS_%26_DA_QUALIFIED-00ff88?style=for-the-badge&labelColor=0A0D14" alt="GATE" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/AWS-CLOUD_PRACTITIONER_(PURSUING)-F59E0B?style=for-the-badge&labelColor=0A0D14" alt="AWS" />
+![GATE](https://img.shields.io/badge/GATE_2026-CS_%26_DA_QUALIFIED-00ff88?style=for-the-badge&labelColor=0A0D14)
 
 </td>
 <td width="20"></td>
@@ -70,32 +63,31 @@
 ```yaml
 IDENTITY_CORE:
   Name           : "Nishchayanand Patil"
-  Class          : "Cybersecurity-Focused Software Engineer"
-  Subclass       : "Full-Stack Dev + Cloud + UI/UX"
-  Location       : "Nagpur, Maharashtra, India 440023"
-  Education      : "B.Tech CSE — S.B. Jain Institute, Nagpur"
+  Class          : "Full-Stack Engineer"
+  Subclass       : "UI/UX Designer + Security"
+  Location       : "Nagpur, Maharashtra, India"
+  Education      : "B.Tech CSE — S.B. Jain Institute"
   Grad_Year      : 2026
   CGPA           : 7.62
 
 OPERATIONAL_STATS:
   Internships    : 3 Completed
-  Languages      : "English (C1) · Hindi (Native) · Marathi (Native)"
-  Certification  : "GATE 2026 Qualified (CS & DA)"
-  Pursuing       : "AWS Cloud Practitioner"
+  Languages      : "English (C1), Hindi (Native), Marathi (C1)"
+  Achievements   : "GATE 2026 Qualified (CS & DA)"
+  Activities     : "Hackathons, Placement Drive Coordinator"
   Availability   : "[ OPEN FOR OPPORTUNITIES ]"
 
 ABILITY_SCORES:
-  Application_Security : ████████████░░   Anti-SQLi, CSRF, Secure Coding
-  Cloud_and_DevOps     : ██████████░░░░   Docker, GitHub Actions, AWS
-  Full_Stack_Dev       : ████████████░░   React JS, HTML, CSS, Python
-  Networking_Systems   : ██████████░░░░   Linux, CCNA, TCP/IP, DNS
-  UI_and_UX_Design     : ████████████░░   Figma, Wireframing, Responsive
+  Frontend_Design    : ████████████░░   Full-Stack + UI/UX
+  Backend_Security   : ███████████░░░   Anti-SQLi, CSRF, ACL
+  Data_Visualization : ████████████░░   Looker Studio, Dashboards
+  Systems_Networking : ██████████░░░░   Linux, CCNA
+  ML_and_AI          : █████████░░░░░   OpenCV, Machine Learning
 
-AREAS_OF_INTEREST:
-  - Cybersecurity & Secure Architecture
-  - Cloud Computing & DevSecOps
-  - Linux Systems & Networking
-  - UI/UX Design & Frontend Engineering
+PHILOSOPHY:
+  Mission : "Building protected web architectures
+             with intuitive UX — secure systems
+             that users actually love to use."
 ```
 
 </td>
@@ -108,53 +100,38 @@ AREAS_OF_INTEREST:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D14&height=50&section=header&text=◈%20SECTION_03%20//%20TECH_LOADOUT%20◈&fontSize=24&fontColor=A78BFA&animation=fadeIn" width="100%" />
 
-<img src="https://skillicons.dev/icons?i=python,react,html,css,cpp,c,linux,docker,figma,github&perline=5&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,sql,linux,opencv,figma&perline=5&theme=dark" />
 
 <br/><br/>
 
 <table border="0" cellpadding="12">
   <tr>
-    <td align="center" width="210">
-      <img src="https://img.shields.io/badge/🔐_APPLICATION-SECURITY-A78BFA?style=for-the-badge&labelColor=0A0D14" /><br/><br/>
-      <code>Anti-SQL Injection</code><br/>
-      <code>CSRF Protection</code><br/>
-      <code>Secure Coding Practices</code><br/>
-      <code>Role-Based Access Control</code><br/>
-      <code>Alert Logic</code>
-    </td>
-    <td align="center" width="20">⚡</td>
-    <td align="center" width="210">
-      <img src="https://img.shields.io/badge/⚙️_CLOUD_&-DEVOPS-06B6D4?style=for-the-badge&labelColor=0A0D14" /><br/><br/>
-      <code>Docker</code><br/>
-      <code>GitHub Actions</code><br/>
-      <code>AWS Cloud (Pursuing)</code><br/>
-      <code>Cloud Security</code><br/>
-      <code>Infrastructure Fundamentals</code>
-    </td>
-    <td align="center" width="20">⚡</td>
-    <td align="center" width="210">
-      <img src="https://img.shields.io/badge/💻_LANGUAGES_&-WEB-00ff88?style=for-the-badge&labelColor=0A0D14" /><br/><br/>
-      <code>Python</code> <code>SQL</code><br/>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/⚔️_LANGUAGES-CORE-A78BFA?style=for-the-badge&labelColor=0A0D14" /><br/><br/>
+      <code>Python</code> <code>Java</code><br/>
       <code>C</code> <code>C++</code><br/>
-      <code>React JS</code><br/>
-      <code>HTML</code> <code>CSS</code>
+      <code>SQL</code> <code>HTML/CSS</code>
     </td>
     <td align="center" width="20">⚡</td>
-    <td align="center" width="210">
-      <img src="https://img.shields.io/badge/🌐_SYSTEMS_&-NETWORKING-F59E0B?style=for-the-badge&labelColor=0A0D14" /><br/><br/>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/🛡️_WEB_&_SECURITY-STACK-06B6D4?style=for-the-badge&labelColor=0A0D14" /><br/><br/>
+      <code>Web Development</code><br/>
+      <code>Anti-SQLi</code> <code>CSRF Defense</code><br/>
+      <code>Access Control</code>
+    </td>
+    <td align="center" width="20">⚡</td>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/📊_DATA_&_AI-TOOLKIT-00ff88?style=for-the-badge&labelColor=0A0D14" /><br/><br/>
+      <code>OpenCV</code> <code>Machine Learning</code><br/>
+      <code>Google Earth Engine</code><br/>
+      <code>Looker Studio</code>
+    </td>
+    <td align="center" width="20">⚡</td>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/⚙️_SYSTEMS-NETWORKING-F59E0B?style=for-the-badge&labelColor=0A0D14" /><br/><br/>
       <code>Linux</code> <code>CCNA</code><br/>
-      <code>TCP/IP</code> <code>DNS</code><br/>
-      <code>Routing & Switching</code><br/>
-      <code>Network Fundamentals</code>
-    </td>
-    <td align="center" width="20">⚡</td>
-    <td align="center" width="210">
-      <img src="https://img.shields.io/badge/🎨_UI_&_UX-DESIGN-EC4899?style=for-the-badge&labelColor=0A0D14" /><br/><br/>
-      <code>Figma</code><br/>
-      <code>Wireframing</code><br/>
-      <code>Responsive Design</code><br/>
-      <code>User Experience Design</code><br/>
-      <code>Frontend Development</code>
+      <code>Google Analytics</code><br/>
+      <code>Google Colab</code>
     </td>
   </tr>
 </table>
@@ -175,28 +152,27 @@ AREAS_OF_INTEREST:
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
 ║  ◈ MAHARASHTRA REMOTE SENSING APPLICATION CENTRE    Dec 2025 – Mar 2026    ║
-║    Full-Stack Web Engineer — Geospatial Data & Security · Nagpur, India     ║
-║    ┗━ Developed SentraScope: secure geospatial analytics platform           ║
-║    ┗━ Designed role-based access control for sensitive geospatial datasets  ║
-║    ┗━ Established authentication & authorization workflows                  ║
-║    ┗━ Integrated Alert Logic for security monitoring practices               ║
-║    ┗━ Conducted geospatial analysis for data-driven planning initiatives    ║
+║    Full-Stack Web Engineer — Geospatial Data & Security                     ║
+║    ┗━ Built SentraScope: secure env-monitoring & geospatial analysis app    ║
+║    ┗━ Designed real-time data visualization dashboard for decision-making   ║
+║    ┗━ Implemented access control protocols and application security         ║
+║    ┗━ Conducted geospatial analysis for urban planning initiatives          ║
 ║                                                                              ║
 ║  ◈ VISTAIO TECHNOLOGIES                             May 2025 – Jun 2025    ║
-║    Data Analyst Intern · Nagpur, India                                       ║
+║    Data Analyst Intern                                                       ║
 ║    ┗━ Analyzed web traffic & user behavior via Google Analytics datasets    ║
 ║    ┗━ Built interactive Google Data Studio dashboards & Colab scripts       ║
+║    ┗━ Cleaned & structured data for reporting accuracy and reliability      ║
 ║    ┗━ Optimized traffic channels to boost digital engagement                ║
-║    ┗━ Cleaned & structured data for accuracy and reliability                ║
 ║                                                                              ║
 ║  ◈ LGPS HYBRID ENERGY PVT LTD                       Jun 2024 – Jun 2024    ║
-║    Data Analyst Intern · Nagpur, India                                       ║
-║    ┗━ Built full-stack sports analysis app with performance tracking        ║
+║    Data Science Intern                                                       ║
+║    ┗━ Developed full-stack sports analysis app with performance tracking    ║
 ║    ┗━ Conducted player performance assessments to inform training strategy  ║
-║    ┗━ Visualized data flow; resolved technical issues across the system     ║
+║    ┗━ Visualized data flow and resolved technical issues in the system      ║
 ║                                                                              ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║   3 INTERNSHIPS  │  Geospatial Security · Data Analytics · Sports Science  ║
+║  INTERNSHIPS: 3  │  DOMAINS: Geospatial · Analytics · Sports Science       ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -210,55 +186,55 @@ AREAS_OF_INTEREST:
 
 <table align="center" border="0" cellpadding="14">
   <tr>
-    <td align="center" width="190">
+    <td align="center" width="200">
       <h3>🏆</h3>
       <b>GATE 2026</b><br/>
-      <sub>Qualified — CS & DA</sub><br/>
-      <img src="https://img.shields.io/badge/NATIONAL_EXAM-QUALIFIED-F59E0B?style=flat-square&labelColor=0A0D14" />
+      <sub>Qualified in CS & DA</sub><br/>
+      <img src="https://img.shields.io/badge/EXAM-QUALIFIED-F59E0B?style=flat-square&labelColor=0A0D14" />
     </td>
-    <td align="center" width="190">
-      <h3>☁️</h3>
-      <b>AWS CLOUD PRACTITIONER</b><br/>
-      <sub>Currently Pursuing</sub><br/>
-      <img src="https://img.shields.io/badge/CERT-IN_PROGRESS-A78BFA?style=flat-square&labelColor=0A0D14" />
-    </td>
-    <td align="center" width="190">
+    <td align="center" width="200">
       <h3>🖥️</h3>
       <b>UI/UX COMPETITION</b><br/>
       <sub>E-Commerce Marketplace Prototype</sub><br/>
-      <img src="https://img.shields.io/badge/EVENT-COMPETED-06B6D4?style=flat-square&labelColor=0A0D14" />
+      <img src="https://img.shields.io/badge/EVENT-COMPETED-A78BFA?style=flat-square&labelColor=0A0D14" />
     </td>
-    <td align="center" width="190">
+    <td align="center" width="200">
       <h3>⚡</h3>
       <b>HACKWACK HACKATHON</b><br/>
       <sub>12-Hour Overnight Inter-College</sub><br/>
       <img src="https://img.shields.io/badge/FORMAT-12H_OVERNIGHT-00ff88?style=flat-square&labelColor=0A0D14" />
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="190">
-      <h3>🔐</h3>
-      <b>SENTROSCOPE</b><br/>
-      <sub>Secure Geospatial Analytics Platform</sub><br/>
-      <img src="https://img.shields.io/badge/PROJECT-DEPLOYED-A78BFA?style=flat-square&labelColor=0A0D14" />
-    </td>
-    <td align="center" width="190">
-      <h3>👁️</h3>
-      <b>FACE RECOGNITION SYSTEM</b><br/>
-      <sub>Python + OpenCV Staff Attendance</sub><br/>
-      <img src="https://img.shields.io/badge/TECH-OPENCV-F59E0B?style=flat-square&labelColor=0A0D14" />
-    </td>
-    <td align="center" width="190">
+    <td align="center" width="200">
       <h3>📋</h3>
       <b>PLACEMENT COORDINATOR</b><br/>
       <sub>Campus Placement Drive Lead</sub><br/>
       <img src="https://img.shields.io/badge/ROLE-COORDINATOR-06B6D4?style=flat-square&labelColor=0A0D14" />
     </td>
-    <td align="center" width="190">
-      <h3>🌍</h3>
-      <b>TRILINGUAL</b><br/>
-      <sub>English · Hindi · Marathi</sub><br/>
-      <img src="https://img.shields.io/badge/FLUENCY-3_LANGUAGES-00ff88?style=flat-square&labelColor=0A0D14" />
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <h3>🔐</h3>
+      <b>SENTROSCOPE PROJECT</b><br/>
+      <sub>Secure Geospatial Web App</sub><br/>
+      <img src="https://img.shields.io/badge/TYPE-DEPLOYED-A78BFA?style=flat-square&labelColor=0A0D14" />
+    </td>
+    <td align="center" width="200">
+      <h3>👁️</h3>
+      <b>FACE RECOGNITION SYSTEM</b><br/>
+      <sub>Python + OpenCV Staff Attendance</sub><br/>
+      <img src="https://img.shields.io/badge/TECH-OPENCV-F59E0B?style=flat-square&labelColor=0A0D14" />
+    </td>
+    <td align="center" width="200">
+      <h3>🐧</h3>
+      <b>LINUX & SQL</b><br/>
+      <sub>Practitioner</sub><br/>
+      <img src="https://img.shields.io/badge/CERT-PRACTITIONER-00ff88?style=flat-square&labelColor=0A0D14" />
+    </td>
+    <td align="center" width="200">
+      <h3>⚙️</h3>
+      <b>3 INTERNSHIPS</b><br/>
+      <sub>Full-Stack · Data · Science</sub><br/>
+      <img src="https://img.shields.io/badge/EXPERIENCE-MULTI_DOMAIN-06B6D4?style=flat-square&labelColor=0A0D14" />
     </td>
   </tr>
 </table>
@@ -286,15 +262,15 @@ AREAS_OF_INTEREST:
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Nishchayanand-Patil&show_icons=true&theme=tokyonight&title_color=A78BFA&text_color=F8FAFC&icon_color=06B6D4&hide_border=true&include_all_commits=true&count_private=true&bg_color=0A0D14&ring_color=A78BFA&cache_seconds=1800" height="195" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Nishchayanand-Patil&show_icons=true&theme=tokyonight&title_color=A78BFA&text_color=F8FAFC&icon_color=06B6D4&hide_border=true&include_all_commits=true&count_private=true&bg_color=0A0D14&ring_color=A78BFA" height="195" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishchayanand-Patil&layout=compact&theme=tokyonight&title_color=A78BFA&text_color=F8FAFC&hide_border=true&bg_color=0A0D14&langs_count=8&cache_seconds=1800" height="195" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishchayanand-Patil&layout=donut&theme=tokyonight&title_color=A78BFA&text_color=F8FAFC&hide_border=true&bg_color=0A0D14&langs_count=8" height="195" />
     </td>
   </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com/?user=Nishchayanand-Patil&theme=tokyonight&hide_border=true&background=0A0D14&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA&sideLabels=06B6D4" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishchayanand-Patil&theme=tokyonight&hide_border=true&background=0A0D14&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA&sideLabels=06B6D4" width="70%" />
 
 </div>
 
@@ -308,20 +284,20 @@ AREAS_OF_INTEREST:
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║           [ CURRENT SKILL ACQUISITION — AREAS OF INTEREST ]               ║
+║              [ CURRENT SKILL ACQUISITION — LIVE PROTOCOLS ]               ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
-║  🔐  CYBERSECURITY             ████████████████░░░░   80%  NEAR_COMPLETE   ║
-║      Secure Architecture · DevSecOps · Threat Modeling · OWASP             ║
+║  🌐  ADVANCED WEB SECURITY     ████████████████░░░░   80%  NEAR_COMPLETE   ║
+║      Anti-SQLi · CSRF Defense · Access Control · Secure Architecture       ║
 ║                                                                              ║
-║  ☁️   CLOUD COMPUTING          ██████████░░░░░░░░░░   50%  IN_PROGRESS     ║
-║      AWS Cloud Practitioner (Pursuing) · Docker · Cloud Security           ║
+║  📊  DATA ENGINEERING          ████████████░░░░░░░░   60%  IN_PROGRESS     ║
+║      Looker Studio · Analytics Pipelines · Google Colab · Data Flow        ║
 ║                                                                              ║
-║  🐧  LINUX & NETWORKING        ██████████████░░░░░░   70%  ACTIVE_STUDY    ║
-║      Linux Systems · CCNA · TCP/IP · DNS · Routing & Switching             ║
+║  🗺️  GEOSPATIAL ANALYSIS       ██████████░░░░░░░░░░   50%  PROTOTYPING     ║
+║      Google Earth Engine · Urban Planning · Environmental Monitoring        ║
 ║                                                                              ║
-║  🎨  UI/UX DESIGN              ████████████░░░░░░░░   60%  PROTOTYPING     ║
-║      Figma · Wireframing · Responsive Design · User Experience             ║
+║  🤖  MACHINE LEARNING & CV     ██████████████░░░░░░   70%  ACTIVE STUDY    ║
+║      OpenCV · ML Algorithms · Google Earth Engine · Computer Vision        ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -340,7 +316,6 @@ AREAS_OF_INTEREST:
  ║    ◈ IDENTITY        : Nishchayanand Patil                  ║
  ║    ◈ DEGREE          : B.Tech CSE — S.B. Jain Institute     ║
  ║    ◈ GATE_2026       : QUALIFIED (CS & DA) ✅               ║
- ║    ◈ AWS_CERT        : Cloud Practitioner (Pursuing) 🔄     ║
  ║    ◈ LOCATION        : Nagpur, Maharashtra, India           ║
  ║    ◈ STATUS          : OPEN FOR OPPORTUNITIES ✅            ║
  ║    ◈ NEXT_MISSION    : ALWAYS_BUILDING                      ║
