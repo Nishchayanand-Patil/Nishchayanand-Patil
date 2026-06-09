@@ -16,9 +16,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=Nishchayanand-Patil&label=◈+PROFILE+VIEWS&color=A78BFA&style=flat-square" />
 &nbsp;
-![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00ff88?style=flat-square&labelColor=0A0D14)
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00ff88?style=flat-square&labelColor=0A0D14" alt="Status" />
 &nbsp;
-![Location](https://img.shields.io/badge/LOCATION-Nagpur,_India-A78BFA?style=flat-square&labelColor=0A0D14)
+<img src="https://img.shields.io/badge/LOCATION-Nagpur,_India-A78BFA?style=flat-square&labelColor=0A0D14" alt="Location" />
 
 </div>
 
